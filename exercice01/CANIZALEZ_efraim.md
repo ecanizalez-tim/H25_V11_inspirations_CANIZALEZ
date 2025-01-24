@@ -9,5 +9,5 @@ lien
 
 image avec lien
 
-## Centre d'intérêt 
+## exposition 
 
