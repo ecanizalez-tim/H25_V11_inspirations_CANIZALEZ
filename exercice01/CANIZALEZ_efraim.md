@@ -10,6 +10,3 @@ Par exemple, Mister v un de mes youtubeurs préféré par le contenu l'écriture
 Consulter cette [vidéo de Mister v.](https://www.youtube.com/watch?v=cwxOXJeZ5sk) 
 
 [![](/exercice01/1200x680_mister_nba.jpg)](https://www.youtube.com/@mistervofficial)
-
-## exposition 
-
