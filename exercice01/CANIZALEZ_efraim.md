@@ -1,6 +1,6 @@
 # Efraïm Canizalez
 
-![photo](photodemoi.jpg)
+![photo](exercice01/photo/photodemoi.JPG)
 Petit médiagrphie
 ## Intérêts dans le multimédias
 J'ai toujours aimé la vidéo. Le divertisment sur Youtube fut une des mes grandes consomation grandissant. 
