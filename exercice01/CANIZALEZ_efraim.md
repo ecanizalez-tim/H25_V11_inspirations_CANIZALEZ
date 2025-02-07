@@ -1,6 +1,6 @@
 # Efraïm Canizalez
 
-Photo
+!(/H25_V11_inspirationa_CANIZALEZ/photos/photodemi.jpg)
 Petit médiagrphie
 ## Intérêts dans le multimédias
 J'ai toujours aimé la vidéo. Le divertisment sur Youtube fut une des mes grandes consomation grandissant. 
