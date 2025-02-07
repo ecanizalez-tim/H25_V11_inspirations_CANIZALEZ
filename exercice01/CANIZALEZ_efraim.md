@@ -1,6 +1,6 @@
 # Efraïm Canizalez
 
-![photo](exercice01/photo/photodemoi.JPG)
+![photo](/photo/photodemoi.JPG)
 
 Voici une photo prise de moi dans le cadre de notre cours de photographie.
 ## Intérêts dans le multimédias
