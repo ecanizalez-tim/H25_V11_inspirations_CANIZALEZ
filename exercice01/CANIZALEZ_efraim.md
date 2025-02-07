@@ -1,6 +1,7 @@
 # Efraïm Canizalez
 
 ![photo](exercice01/photo/photodemoi.JPG)
+
 Voici une photo prise de moi dans le cadre de notre cours de photographie.
 ## Intérêts dans le multimédias
 J'ai toujours aimé la vidéo. Le divertisment sur Youtube fut une des mes grandes consomation grandissant. 
