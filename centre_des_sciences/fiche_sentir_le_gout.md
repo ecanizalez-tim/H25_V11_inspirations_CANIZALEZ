@@ -26,8 +26,7 @@ Passez de la cuisine à la table à travers un parcours où vous mettez la main 
 
 ## Sentir le goût 
 
- | Références | 
+ Références | Références | Références
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/centre_des_sciences/photo/stanley_img.jpg)|![](/centre_des_sciences/photo/stanley_img.jpg)|![](/centre_des_sciences/photo/stanley_img.jpg)
-:-------------------------:|:-------------------------:|:-------------------------:
 ![](/centre_des_sciences/photo/stanley_img.jpg)|![](/centre_des_sciences/photo/stanley_img.jpg)|![](/centre_des_sciences/photo/stanley_img.jpg)
