@@ -50,5 +50,3 @@ Photo prise lors de la visite par Efraïm Canizalez
 ![](/centre_des_sciences/photo/referances_01.jpg)|![](/centre_des_sciences/photo/referances_02.jpg)
 
 Photo prise lors de la visite par Efraïm Canizalez
-
----
