@@ -16,4 +16,7 @@ Photo prise par moi au courrant de la visite.
 
 ---
 
-Nous avons visité l'exposition le banquet en classe. Nous avons aimé voir ce qui est possible de faire avec les conaissance qu'on va aquérir. 
+Nous avons visité l'exposition le Banquet en classe. Nous avons aimé voir ce qui est possible de faire avec les conaissance qu'on va aquérir. 
+L'exposition Banquet propose une expérience interactive et conviviale autour d'un sujet rassembleur : la gastronomie.
+Passez de la cuisine à la table à travers un parcours où vous mettez la main à la pâte, tentez des mélanges inédits et explorez saveurs et parfums.
+Une expérience éducative et enrichissante à ne pas rater. Après tout, la cuisine est un art où la science met son grain de sel!
