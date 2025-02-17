@@ -16,7 +16,7 @@ Photo prise par moi au courrant de la visite.
 
 ---
 
-Nous avons visité l'exposition le Banquet en classe. Nous avons aimé voir ce qui est possible de faire avec les conaissance qu'on va aquérir. 
+Nous avons visité l'exposition temporaire le Banquet au centre des sciences le 31 janvier 2025. Nous avons aimé voir ce qui est possible de faire avec les conaissance qu'on va aquérir.
 
 [L'exposition Banquet](https://www.centredessciencesdemontreal.com/exposition-temporaire/l-exposition-interactive-banquet) propose une expérience interactive et conviviale autour d'un sujet rassembleur : la gastronomie.
 
