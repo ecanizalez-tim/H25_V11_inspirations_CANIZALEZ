@@ -26,7 +26,7 @@ Passez de la cuisine à la table à travers un parcours où vous mettez la main 
 
 ## Sentir le goût 
 
- Carte de | références | de l'exposition
+ Carte  | explicative | de l'exposition
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)
 ![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)
@@ -40,3 +40,11 @@ Photo prise lors de la visite par Efraïm Canizalez
 ![](/centre_des_sciences/photo/dispositif_02.jpg)|![](/centre_des_sciences/photo/dispositif_03.jpg)
 
 Photo prise lors de la visite par Efraïm Canizalez
+
+---
+
+### Référances 
+
+ Photos | des référance
+:-------------------------:|:-------------------------:
+![](/centre_des_sciences/photo/referances_01(2).jpg)|![](/centre_des_sciences/photo/references_02(3).jpg)
