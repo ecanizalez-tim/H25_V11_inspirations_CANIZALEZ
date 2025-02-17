@@ -30,3 +30,11 @@ Passez de la cuisine à la table à travers un parcours où vous mettez la main 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)
 ![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)
+Photo prise lors de la visite par Efraïm Canizalez
+
+---
+
+ Photos | du dispositif
+:-------------------------:|:-------------------------:
+![](/centre_des_sciences/photo/dispositif_02.jpg)|![](/centre_des_sciences/photo/dispositif_03.jpg)
+Photo prise lors de la visite par Efraïm Canizalez
