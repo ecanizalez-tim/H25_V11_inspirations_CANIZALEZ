@@ -47,4 +47,4 @@ Photo prise lors de la visite par Efraïm Canizalez
 
  Photos | des référance
 :-------------------------:|:-------------------------:
-![](/centre_des_sciences/photo/referances_01(2).jpg)|![](/centre_des_sciences/photo/references_02(3).jpg)
+![](/centre_des_sciences/photo/referances_01 (2).jpg)|![](/centre_des_sciences/photo/references_02(3).jpg)
