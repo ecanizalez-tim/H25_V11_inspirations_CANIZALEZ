@@ -11,7 +11,7 @@ Photographe: Olivier Laliberté, Cédric Sirois-Tanguay et Efraïm Canizalez.
 ## Exposition Visitée 
 
 <p align="center">
-  <img src="/centre_des_sciences/photo/stanley_img.jpg" height= 600px>
+  <img src="/centre_des_sciences/photo/stanley_img.jpg" height= 400px>
 </p>
 Photo prise par moi au courrant de la visite.
 
