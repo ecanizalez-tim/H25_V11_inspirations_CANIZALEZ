@@ -6,7 +6,7 @@
 Photo prise en visitant le centre des sicences. 
 Photographe: Olivier Laliberté, Cédric Sirois-Tanguay et Efraïm Canizalez.
 
-
+---
 
 ## Exposition Visitée 
 
@@ -15,6 +15,7 @@ Photographe: Olivier Laliberté, Cédric Sirois-Tanguay et Efraïm Canizalez.
 </p>
 Photo prise par moi au courrant de la visite.
 
+---
 
 Nous avons visité l'exposition temporaire le Banquet au centre des sciences le 31 janvier 2025. Nous avons aimé voir ce qui est possible de faire avec les conaissance qu'on va aquérir.
 
@@ -33,7 +34,7 @@ Passez de la cuisine à la table à travers un parcours où vous mettez la main 
 
 Photo prise lors de la visite par Efraïm Canizalez
 
----
+
 
 > Cet exposition montrais l'implication du nez sur le goût et sur les odeurs.
 > Il y avait les trou dans le mur ou on pouvait activer une manivelle pour sentir une odeur.
@@ -41,7 +42,6 @@ Photo prise lors de la visite par Efraïm Canizalez
 > Fournit par l'artiste: la manivelle, la structure, le spray et les odeurs
 > Fournit par l'établissement: les explication et l'éclairage. 
 
----
 
  Photos | du dispositif
 :-------------------------:|:-------------------------:
