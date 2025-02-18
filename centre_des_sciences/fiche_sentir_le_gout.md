@@ -36,6 +36,10 @@ Photo prise lors de la visite par Efraïm Canizalez
 
 ---
 
+> Cet fvdgv dgv v bv vn n nv vn nv nv n
+
+---
+
  Photos | du dispositif
 :-------------------------:|:-------------------------:
 ![](/centre_des_sciences/photo/dispositif_02.jpg)|![](/centre_des_sciences/photo/dispositif_03.jpg)
