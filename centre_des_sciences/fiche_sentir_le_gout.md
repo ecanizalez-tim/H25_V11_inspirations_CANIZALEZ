@@ -6,7 +6,7 @@
 Photo prise en visitant le centre des sicences. 
 Photographe: Olivier Laliberté, Cédric Sirois-Tanguay et Efraïm Canizalez.
 
----
+
 
 ## Exposition Visitée 
 
@@ -15,7 +15,6 @@ Photographe: Olivier Laliberté, Cédric Sirois-Tanguay et Efraïm Canizalez.
 </p>
 Photo prise par moi au courrant de la visite.
 
----
 
 Nous avons visité l'exposition temporaire le Banquet au centre des sciences le 31 janvier 2025. Nous avons aimé voir ce qui est possible de faire avec les conaissance qu'on va aquérir.
 
