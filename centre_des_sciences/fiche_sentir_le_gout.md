@@ -34,14 +34,15 @@ Passez de la cuisine à la table à travers un parcours où vous mettez la main 
 
 Photo prise lors de la visite par Efraïm Canizalez
 
+---
 
+Cet exposition montrais l'implication du nez sur le goût et sur les odeurs.
+Il y avait les trou dans le mur ou on pouvait activer une manivelle pour sentir une odeur.
+le dispositif fonctionne avec un huile essenciel de l'odeur un spray et la manivelle pour l'actionnner.
+Fournit par l'artiste: la manivelle, la structure, le spray et les odeurs
+Fournit par l'établissement: les explication et l'éclairage. 
 
-> Cet exposition montrais l'implication du nez sur le goût et sur les odeurs.
-> Il y avait les trou dans le mur ou on pouvait activer une manivelle pour sentir une odeur.
-> le dispositif fonctionne avec un huile essenciel de l'odeur un spray et la manivelle pour l'actionnner.
-> Fournit par l'artiste: la manivelle, la structure, le spray et les odeurs
-> Fournit par l'établissement: les explication et l'éclairage. 
-
+---
 
  Photos | du dispositif
 :-------------------------:|:-------------------------:
