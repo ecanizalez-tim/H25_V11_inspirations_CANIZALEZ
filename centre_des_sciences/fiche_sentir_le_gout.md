@@ -52,6 +52,14 @@ Photo prise lors de la visite par Efraïm Canizalez
 
 ---
 
+### Mon avis 
+
+J'ai aimer l'intéractiviter de l'exposition. 
+Il a été bien penser de faire que les oders soit limité pour ne pas avoir un grand mélange d'odeurs. 
+De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
+
+---
+
 ### Référances 
 
  Photos | des référance
