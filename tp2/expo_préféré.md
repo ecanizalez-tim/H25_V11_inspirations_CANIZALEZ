@@ -35,7 +35,8 @@ Photo prise lors de la visite par Efraïm Canizalez
 
 ---
 
-bla bla 
+bla bla explication de l'intercativité avec le dispositif.
+
 ---
 
  Photos | du dispositif
