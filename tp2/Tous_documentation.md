@@ -92,8 +92,10 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## Etheria
 
-![](/tp2/photos/etheria/etheria_equipe.jpg)|![](/tp2/photos/etheria/etheria_joystick.jpg)|![](/tp2/photos/etheria/etheria_set_up_pc.jpg)|![](/tp2/photos/etheria/etheria_table_de_jeu.jpg)
+Olivier en contemplation | Ordinateur utilisé | Utilisation de l'exposition | Équipe réalisant le tout
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](/tp2/photos/etheria/etheria_equipe.jpg)|![](/tp2/photos/etheria/etheria_joystick.jpg)|![](/tp2/photos/etheria/etheria_set_up_pc.jpg)|![](/tp2/photos/etheria/etheria_table_de_jeu.jpg)
+Olivier en contemplation | Ordinateur utilisé | Utilisation de l'exposition | Équipe réalisant le tout
 ![](/tp2/photos/etheria/etheria_projecteur_speaker_capteur.jpg)|![](/tp2/photos/etheria/etheria_projecteur_speaker_capteur_finale.JPG)|![](/tp2/photos/etheria/etheria_projection.JPG)|![](/tp2/photos/etheria/fiche_etheria.JPG)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
@@ -123,8 +125,10 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## Fuga
 
-![](/tp2/photos/fuga/fuga_tele.JPG)|![](/tp2/photos/fuga/fuga_vue_ensemble.JPG)|![](/tp2/photos/fuga/fuga.jpg)|![](/tp2/photos/fuga/fiche_fuga.JPG)
+Olivier en contemplation | Ordinateur utilisé | Utilisation de l'exposition | Équipe réalisant le tout
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](/tp2/photos/fuga/fuga_tele.JPG)|![](/tp2/photos/fuga/fuga_vue_ensemble.JPG)|![](/tp2/photos/fuga/fuga.jpg)|![](/tp2/photos/fuga/fiche_fuga.JPG)
+Olivier en contemplation | Ordinateur utilisé | Utilisation de l'exposition | Équipe réalisant le tout
 ![](/tp2/photos/fuga/fuga_manette.JPG)|![](/tp2/photos/fuga/fuga_manette_style_2.JPG)|![](/tp2/photos/fuga/fuga_manette_style_3.JPG)|![](/tp2/photos/fuga/fuga_ordi.jpg)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
@@ -154,8 +158,10 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## CON DU8
 
-![](/tp2/photos/condu8/cond8-roue-vue-de-gauche.jpg)|![](/tp2/photos/condu8/cond8-roue_vue-de-droite.jpg)|![](/tp2/photos/condu8/condu8_test.jpg)|![](/tp2/photos/condu8/fiche_de-coud8.jpg)
+Olivier en contemplation | Ordinateur utilisé | Utilisation de l'exposition | Équipe réalisant le tout
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](/tp2/photos/condu8/cond8-roue-vue-de-gauche.jpg)|![](/tp2/photos/condu8/cond8-roue_vue-de-droite.jpg)|![](/tp2/photos/condu8/condu8_test.jpg)|![](/tp2/photos/condu8/fiche_de-coud8.jpg)
+Olivier en contemplation | Ordinateur utilisé | Utilisation de l'exposition | Équipe réalisant le tout
 ![](/tp2/photos/condu8/cond8_equipe.jpg)|![](/tp2/photos/condu8/cond8_projecteur-speaker.jpg)|![](/tp2/photos/condu8/cond8_projecteur.jpg)|![](/tp2/photos/condu8/cond8_projection.jpg)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
@@ -190,8 +196,10 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
   <i>Photo de la fiche prise lors de l'exposion -Efraïm Canizalez</i>
 </p> 
 
-![](/tp2/photos/prismatica/prismatica_insatallation.jpg)|![](/tp2/photos/prismatica/prismatica_projection.jpg)|![](/tp2/photos/prismatica/prismatica_tableau.jpg)
+Olivier en contemplation | Ordinateur utilisé | Utilisation de l'exposition
 :-------------------------:|:-------------------------:|:-------------------------:
+![](/tp2/photos/prismatica/prismatica_insatallation.jpg)|![](/tp2/photos/prismatica/prismatica_projection.jpg)|![](/tp2/photos/prismatica/prismatica_tableau.jpg)
+Olivier en contemplation | Ordinateur utilisé | Utilisation de l'exposition
 ![](/tp2/photos/prismatica/primitica_interaction.JPG)|![](/tp2/photos/prismatica/primitica_speaker.JPG)|![](/tp2/photos/prismatica/primitica_vue_ensemble.JPG)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
