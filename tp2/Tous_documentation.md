@@ -3,7 +3,7 @@
 <p align="center">
   <img src="/tp2/photos/entree_projection.JPG" height= 400px>
 </p> 
-Photo prise en visitant l'exposition Résonnance.
+*Photo prise en visitant l'exposition Résonnance.*
 
 ---
 
@@ -27,7 +27,7 @@ Nous avons visité l'exposition temporaire Résonnance
 ![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)
 ![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)
 
-Photo prise lors de la visite par Efraïm Canizalez
+*Photo prise lors de la visite par Efraïm Canizalez*
 
 ---
 
