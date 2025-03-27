@@ -10,7 +10,7 @@ Photo de l'équipe
 ## Exposition Visitée 
 
 <p align="center">
-  <img src="/centre_des_sciences/photo/stanley_img.jpg" height= 400px>
+  <img src="/tp2/photos/internature/internature_vu_dans_tunnel.jpg" height= 400px>
 </p>
 Photo prise par moi au courrant de la visite.
 
