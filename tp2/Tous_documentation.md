@@ -21,7 +21,7 @@ Nous avons visité l'exposition temporaire Résonnance
 
 ---
 
-## 1 
+## Internature
 
  installation  | en | cours
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -61,7 +61,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ---
 
-## 2
+## Luminatura
 
  installation  | en | cours
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -101,7 +101,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ---
 
-## 3 
+## Etheria
 
  installation  | en | cours
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -141,7 +141,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ---
 
-## 4
+## Fuga
 
  installation  | en | cours
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -181,7 +181,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ---
 
-## 5
+## CON DU8
 
  installation  | en | cours
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -221,7 +221,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ---
 
-## 6
+## Prismatica
 
  installation  | en | cours
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -261,7 +261,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ---
 
-## 7
+## Arcadia
 
  installation  | en | cours
 :-------------------------:|:-------------------------:|:-------------------------:
