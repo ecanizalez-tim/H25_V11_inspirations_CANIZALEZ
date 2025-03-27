@@ -57,9 +57,8 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## Luminatura
 
- installation  | en | cours
+![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg) 
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)
 ![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
@@ -67,14 +66,6 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 ---
 
 schéma d'installation
-
----
-
- Photos | du dispositif
-:-------------------------:|:-------------------------:
-![](/centre_des_sciences/photo/dispositif_02.jpg)|![](/centre_des_sciences/photo/dispositif_03.jpg)
-
-*Photo prise lors de la visite par Efraïm Canizalez*
 
 ---
 
@@ -97,9 +88,8 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## Etheria
 
- installation  | en | cours
-:-------------------------:|:-------------------------:|:-------------------------:
 ![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:
 ![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
@@ -107,14 +97,6 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 ---
 
 schéma d'installation
-
----
-
- Photos | du dispositif
-:-------------------------:|:-------------------------:
-![](/centre_des_sciences/photo/dispositif_02.jpg)|![](/centre_des_sciences/photo/dispositif_03.jpg)
-
-*Photo prise lors de la visite par Efraïm Canizalez*
 
 ---
 
@@ -137,9 +119,9 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## Fuga
 
- installation  | en | cours
-:-------------------------:|:-------------------------:|:-------------------------:
 ![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:
+
 ![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
@@ -147,14 +129,6 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 ---
 
 schéma d'installation
-
----
-
- Photos | du dispositif
-:-------------------------:|:-------------------------:
-![](/centre_des_sciences/photo/dispositif_02.jpg)|![](/centre_des_sciences/photo/dispositif_03.jpg)
-
-Photo prise lors de la visite par Efraïm Canizalez
 
 ---
 
@@ -177,9 +151,9 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## CON DU8
 
- installation  | en | cours
-:-------------------------:|:-------------------------:|:-------------------------:
 ![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:
+
 ![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
@@ -187,14 +161,6 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 ---
 
 schéma d'installation
-
----
-
- Photos | du dispositif
-:-------------------------:|:-------------------------:
-![](/centre_des_sciences/photo/dispositif_02.jpg)|![](/centre_des_sciences/photo/dispositif_03.jpg)
-
-*Photo prise lors de la visite par Efraïm Canizalez*
 
 ---
 
@@ -217,9 +183,8 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## Prismatica
 
- installation  | en | cours
-:-------------------------:|:-------------------------:|:-------------------------:
 ![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:
 ![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
@@ -227,14 +192,6 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 ---
 
 schéma d'installation
-
----
-
- Photos | du dispositif
-:-------------------------:|:-------------------------:
-![](/centre_des_sciences/photo/dispositif_02.jpg)|![](/centre_des_sciences/photo/dispositif_03.jpg)
-
-*Photo prise lors de la visite par Efraïm Canizalez*
 
 ---
 
@@ -257,9 +214,8 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## Arcadia
 
- installation  | en | cours
-:-------------------------:|:-------------------------:|:-------------------------:
 ![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:
 ![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
@@ -267,14 +223,6 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 ---
 
 schéma d'installation
-
----
-
- Photos | du dispositif
-:-------------------------:|:-------------------------:
-![](/centre_des_sciences/photo/dispositif_02.jpg)|![](/centre_des_sciences/photo/dispositif_03.jpg)
-
-*Photo prise lors de la visite par Efraïm Canizalez*
 
 ---
 
