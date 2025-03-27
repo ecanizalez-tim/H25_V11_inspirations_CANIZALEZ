@@ -44,14 +44,6 @@ bla bla explication des technologie du dispositif.
 
 ---
 
- Photos | du dispositif
-:-------------------------:|:-------------------------:
-![](/centre_des_sciences/photo/dispositif_02.jpg)|![](/centre_des_sciences/photo/dispositif_03.jpg)
-
-Photo prise lors de la visite par Efraïm Canizalez
-
----
-
 ### Mon avis 
 
 bla bla
