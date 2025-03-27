@@ -22,7 +22,8 @@ Nous avons visité l'exposition temporaire Résonnance
 ---
 
 ## Internature
-![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)
+
+![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg) 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)
 
@@ -57,9 +58,9 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## Luminatura
 
-![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg) 
-:-------------------------:|:-------------------------:|:-------------------------:
-![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)
+![](/tp2/photos/luminatura/luminatura_olivier_en_contemplation.jpg)|![](/tp2/photos/luminatura/luminatura_ordi.jpg)|![](tp2/photos/luminatura/luminatura_main_qui_teste.jpg)|![](/tp2/photos/luminatura/luminatura_equipe.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](/tp2/photos/luminatura/luminatura_projecteur.jpg)|![](/tp2/photos/luminatura/luminatura_projection.jpg)|![](/tp2/photos/luminatura/luminatura_speaker.jpg)|![](/tp2/photos/luminatura/fiche_luminatura.JPG)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
 
@@ -88,9 +89,9 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## Etheria
 
-![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)
-:-------------------------:|:-------------------------:|:-------------------------:
-![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)
+![](/tp2/photos/etheria/etheria_equipe.jpg)|![](/tp2/photos/etheria/etheria_joystick.jpg)|![](/tp2/photos/etheria/etheria_set_up_pc.jpg)|![](/tp2/photos/etheria/etheria_table_de_jeu.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](/tp2/photos/etheria/etheria_projecteur_speaker_capteur.jpg)|![](/tp2/photos/etheria/etheria_projecteur_speaker_capteur_finale.JPG)|![](/tp2/photos/etheria/etheria_projection.JPG)|![](/tp2/photos/etheria/fiche_etheria.JPG)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
 
@@ -119,8 +120,9 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## Fuga
 
-![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)
-![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)
+![](/tp2/photos/fuga/fuga_tele.JPG)|![](/tp2/photos/fuga/fuga_vue_ensemble.JPG)|![](/tp2/photos/fuga/fuga.jpg)|![](/tp2/photos/fuga/fiche_fuga.JPG)
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](/tp2/photos/fuga/fuga_manette.JPG)|![](/tp2/photos/fuga/fuga_manette_style_2.JPG)|![](/tp2/photos/fuga/fuga_manette_style_3.JPG)|![](/tp2/photos/fuga/fuga_ordi.jpg)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
 
