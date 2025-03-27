@@ -10,17 +10,13 @@ Photo de l'équipe
 ## Exposition Visitée 
 
 <p align="center">
-  <img src="/tp2/photos/internature/internature_vu_dans_tunnel.jpg" height= 400px>
+  <img src="/tp2/photos/internature/fiche_internatuel.JPG" height= 400px>
 </p>
 Photo prise par moi au courrant de la visite.
 
 ---
 
-Nous avons visité l'exposition temporaire le Banquet au centre des sciences le 31 janvier 2025. Nous avons aimé voir ce qui est possible de faire avec les conaissance qu'on va aquérir.
-
-[L'exposition Banquet](https://www.centredessciencesdemontreal.com/exposition-temporaire/l-exposition-interactive-banquet) propose une expérience interactive et conviviale autour d'un sujet rassembleur : la gastronomie.
-
-Passez de la cuisine à la table à travers un parcours où vous mettez la main à la pâte, tentez des mélanges inédits et explorez saveurs et parfums.
+bla bla
 
 ---
 
@@ -28,8 +24,8 @@ Passez de la cuisine à la table à travers un parcours où vous mettez la main 
 
  Carte  | explicative | de l'exposition
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)
-![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)
+![](/tp2/photos/internature/internature_projection_dans_tunnel.jpg)|![](/tp2/photos/internature/internature_vu_dans_tunnel.jpg)|![](/tp2/photos/internature/internature_projection_dans_tunnel_droite.jpg)
+![](/tp2/photos/internature/internature_capteur.jpg)|![](/tp2/photos/internature/internature_projection.jpg)|![](/tp2/photos/internature/internature_prototype.jpg)
 
 Photo prise lors de la visite par Efraïm Canizalez
 
