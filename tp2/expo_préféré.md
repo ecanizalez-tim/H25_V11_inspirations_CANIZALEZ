@@ -25,6 +25,10 @@ bla bla
  Carte  | explicative | de l'exposition
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/tp2/photos/internature/internature_projection_dans_tunnel.jpg)|![](/tp2/photos/internature/internature_vu_dans_tunnel.jpg)|![](/tp2/photos/internature/internature_projection_dans_tunnel_droite.jpg)
+
+
+ Carte  | explicative | de l'exposition
+:-------------------------:|:-------------------------:|:-------------------------:
 ![](/tp2/photos/internature/internature_capteur.jpg)|![](/tp2/photos/internature/internature_projection.jpg)|![](/tp2/photos/internature/internature_prototype.jpg)
 
 Photo prise lors de la visite par Efraïm Canizalez
