@@ -1,7 +1,7 @@
 #  Résonnance
 
 <p align="center">
-  <img src="/centre_des_sciences/photo/banquet_et_nous.jpg">
+  <img src="/tp2/photos/entree_projection.JPG">
 </p> 
 Photo prise en visitant l'exposition Résonnance.
 
