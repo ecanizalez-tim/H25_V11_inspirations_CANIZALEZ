@@ -26,6 +26,11 @@ bla bla
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/tp2/photos/internature/internature_projection_dans_tunnel.jpg)|![](/tp2/photos/internature/internature_vu_dans_tunnel.jpg)|![](/tp2/photos/internature/internature_projection_dans_tunnel_droite.jpg)
 
+---
+
+bla bla explication de l'intercativité avec le dispositif.
+
+---
 
  technologie  | utilisé pour | l'exposition
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -35,7 +40,7 @@ Photo prise lors de la visite par Efraïm Canizalez
 
 ---
 
-bla bla explication de l'intercativité avec le dispositif.
+bla bla explication des technologie du dispositif.
 
 ---
 
@@ -53,11 +58,13 @@ bla bla
 
 ---
 
-### Référances 
+### Connaissance demander
 
- Photos | des référance
-:-------------------------:|:-------------------------:
-![](/centre_des_sciences/photo/referances_01.jpg)|![](/centre_des_sciences/photo/referances_02.jpg)
+ Photos des référance
 
+![](/tp2/photos/internature/internature_ordi.jpg)
 Photo prise lors de la visite par Efraïm Canizalez
 
+---
+
+connaissance nécéssaire
