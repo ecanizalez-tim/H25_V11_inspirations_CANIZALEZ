@@ -58,7 +58,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## Luminatura
 
-![](/tp2/photos/luminatura/luminatura_olivier_en_contemplation.jpg)|![](/tp2/photos/luminatura/luminatura_ordi.jpg)|![](tp2/photos/luminatura/luminatura_main_qui_teste.jpg)|![](/tp2/photos/luminatura/luminatura_equipe.jpg)
+![](/tp2/photos/luminatura/luminatura_olivier_en_contemplation.jpg)|![](/tp2/photos/luminatura/luminatura_ordi.jpg)|![](/tp2/photos/luminatura/luminatura_main_qui_teste.jpg)|![](/tp2/photos/luminatura/luminatura_equipe.jpg)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](/tp2/photos/luminatura/luminatura_projecteur.jpg)|![](/tp2/photos/luminatura/luminatura_projection.jpg)|![](/tp2/photos/luminatura/luminatura_speaker.jpg)|![](/tp2/photos/luminatura/fiche_luminatura.JPG)
 
