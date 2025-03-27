@@ -150,9 +150,9 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## CON DU8
 
-![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)
-:-------------------------:|:-------------------------:|:-------------------------:
-![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)
+![](/tp2/photos/condu8/cond8-roue-vue de gauche.jpg)|![](/tp2/photos/condu8/cond8-roue_vue de droite.jpg)|![](/tp2/photos/condu8/condu8_test.jpg)|![](/tp2/photos/condu8/fiche_de-coud8.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](/tp2/photos/condu8/cond8_equipe.jpg)|![](/tp2/photos/condu8/cond8_projecteur-speaker.jpg)|![](/tp2/photos/condu8/cond8_projecteur.jpg)|![](/tp2/photos/condu8/cond8_projection.jpg)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
 
@@ -181,9 +181,14 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## Prismatica
 
-![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)
+<p align="center">
+  <img src="/tp2/photos/prismatica/fiche_primitica.JPG" height= 400px>
+<i>Photo de la fiche prise lors de l'exposion -Efraïm Canizalez</i>
+</p> 
+
+![](/tp2/photos/prismatica/prismatica_insatallation.jpg)|![](/tp2/photos/prismatica/prismatica_projection.jpg)|![](/tp2/photos/prismatica/prismatica_tableau.jpg)
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)
+![](/tp2/photos/prismatica/primitica_interaction.JPG)|![](/tp2/photos/prismatica/primitica_speaker.JPG)|![](/tp2/photos/prismatica/primitica_vue_ensemble.JPG)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
 
@@ -212,9 +217,9 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## Arcadia
 
-![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg)
+Teste de la permière version| Première version  | Version finale
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)
+![](/tp2/photos/arcadia/arcadia_avec_phone_dans_photo.jpg)|![](/tp2/photos/arcadia/arcadia_finale.JPG)|![](/tp2/photos/arcadia/arcadia_test_ordi.jpg)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
 
