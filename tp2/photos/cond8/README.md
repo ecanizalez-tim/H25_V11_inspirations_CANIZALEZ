@@ -1,1 +1,0 @@
-cond8 photo
