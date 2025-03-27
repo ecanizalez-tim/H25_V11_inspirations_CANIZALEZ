@@ -62,7 +62,9 @@ bla bla
 
  Photos des référance
 
-![](/tp2/photos/internature/internature_ordi.jpg)
+<p align="center">
+  <img src="/tp2/photos/internature/internature_ordi.jpg" height= 400px>
+</p>
 Photo prise lors de la visite par Efraïm Canizalez
 
 ---
