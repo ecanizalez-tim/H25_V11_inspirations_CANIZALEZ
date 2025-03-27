@@ -125,10 +125,10 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## Fuga
 
-Olivier en contemplation | Ordinateur utilisé | Utilisation de l'exposition | Équipe réalisant le tout
+Télévision montrant le résultat de l'intération | Vue d'ensemble | Deucièeme vue d'emsemble  | Fiche de l'exposition
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](/tp2/photos/fuga/fuga_tele.JPG)|![](/tp2/photos/fuga/fuga_vue_ensemble.JPG)|![](/tp2/photos/fuga/fuga.jpg)|![](/tp2/photos/fuga/fiche_fuga.JPG)
-Olivier en contemplation | Ordinateur utilisé | Utilisation de l'exposition | Équipe réalisant le tout
+Manette intéracitve #1 | Manette intéracitve #2 | Manette intéracitve #3 | Ordinatuer avec les programmes nécéssaire
 ![](/tp2/photos/fuga/fuga_manette.JPG)|![](/tp2/photos/fuga/fuga_manette_style_2.JPG)|![](/tp2/photos/fuga/fuga_manette_style_3.JPG)|![](/tp2/photos/fuga/fuga_ordi.jpg)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
