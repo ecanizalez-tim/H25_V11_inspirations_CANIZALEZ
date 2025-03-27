@@ -59,7 +59,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## Luminatura
 
-Olivier en contemplation | Ordinateur utilisé | Utilisation de l'exposition | Équipe réalisant le tout
+Olivier en contemplation |  Ordinatuer avec les programmes nécéssaire | Cédric en utilisation de l'exposition | Équipe réalisant le tout
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](/tp2/photos/luminatura/luminatura_olivier_en_contemplation.jpg)|![](/tp2/photos/luminatura/luminatura_ordi.jpg)|![](/tp2/photos/luminatura/luminatura_main_qui_teste.jpg)|![](/tp2/photos/luminatura/luminatura_equipe.jpg)
 Projecteur |La projection | Speaker | Fiche explicative
@@ -92,7 +92,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## Etheria
 
-Olivier en contemplation | Ordinateur utilisé | Utilisation de l'exposition | Équipe réalisant le tout
+Olivier en contemplation | Ordinateur utilisé |  Ordinatuer avec les programmes nécéssaire | Équipe réalisant le tout
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](/tp2/photos/etheria/etheria_equipe.jpg)|![](/tp2/photos/etheria/etheria_joystick.jpg)|![](/tp2/photos/etheria/etheria_set_up_pc.jpg)|![](/tp2/photos/etheria/etheria_table_de_jeu.jpg)
 Olivier en contemplation | Ordinateur utilisé | Utilisation de l'exposition | Équipe réalisant le tout
