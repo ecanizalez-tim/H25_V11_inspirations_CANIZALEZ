@@ -1,7 +1,7 @@
 #  Internature 
 
 <p align="center">
-  <img src="/centre_des_sciences/photo/banquet_et_nous.jpg">
+  <img src="/tp2/photos/internature/internature_equipe.jpg">
 </p> 
 Photo de l'équipe
 
