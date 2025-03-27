@@ -22,7 +22,7 @@ bla bla
 
 ## Infomation de l'exposition
 
- Résultat  | de | l'exposition
+ Résultat  | du prototype |  de l'exposition
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/tp2/photos/internature/internature_projection_dans_tunnel.jpg)|![](/tp2/photos/internature/internature_vu_dans_tunnel.jpg)|![](/tp2/photos/internature/internature_projection_dans_tunnel_droite.jpg)
 
