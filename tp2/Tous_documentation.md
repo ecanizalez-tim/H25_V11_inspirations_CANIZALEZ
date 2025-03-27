@@ -23,9 +23,9 @@ Nous avons visité l'exposition temporaire Résonnance
 
 ## Internature
 
-![](/centre_des_sciences/photo/carte_02.jpg)|![](/centre_des_sciences/photo/carte_01.jpg)|![](/centre_des_sciences/photo/carte_05.jpg) 
+Fiche explicative | Équipe réalisant l'exposition | Capteur de mouvement
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/centre_des_sciences/photo/dispositif_01.jpg)|![](/centre_des_sciences/photo/carte_04.jpg)|![](/centre_des_sciences/photo/carte_03.jpg)
+![](/tp2/photos/internature/fiche_internatuel.JPG)|![](/tp2/photos/internature/internature_equipe.jpg)|![](/tp2/photos/internature/internature_capteur.jpg) 
 
 *Photo prise lors de la visite par Efraïm Canizalez*
 
