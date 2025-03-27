@@ -9,13 +9,6 @@ Photo prise en visitant l'exposition Résonnance.
 
 ## Exposition Visitée 
 
-<p align="center">
-  <img src="/centre_des_sciences/photo/stanley_img.jpg" height= 400px>
-</p>
-Photo prise par moi au courrant de la visite.
-
----
-
 Nous avons visité l'exposition temporaire Résonnance
 
 ---
