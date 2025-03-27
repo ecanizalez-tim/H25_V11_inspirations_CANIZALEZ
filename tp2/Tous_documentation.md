@@ -150,7 +150,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ## CON DU8
 
-![](/tp2/photos/condu8/cond8-roue-vue de gauche.jpg)|![](/tp2/photos/condu8/cond8-roue_vue de droite.jpg)|![](/tp2/photos/condu8/condu8_test.jpg)|![](/tp2/photos/condu8/fiche_de-coud8.jpg)
+![](/tp2/photos/condu8/cond8-roue-vue-de-gauche.jpg)|![](/tp2/photos/condu8/cond8-roue_vue-de-droite.jpg)|![](/tp2/photos/condu8/condu8_test.jpg)|![](/tp2/photos/condu8/fiche_de-coud8.jpg)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](/tp2/photos/condu8/cond8_equipe.jpg)|![](/tp2/photos/condu8/cond8_projecteur-speaker.jpg)|![](/tp2/photos/condu8/cond8_projecteur.jpg)|![](/tp2/photos/condu8/cond8_projection.jpg)
 
@@ -183,7 +183,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 <p align="center">
   <img src="/tp2/photos/prismatica/fiche_primitica.JPG" height= 400px>
-<i>Photo de la fiche prise lors de l'exposion -Efraïm Canizalez</i>
+  <i>Photo de la fiche prise lors de l'exposion -Efraïm Canizalez</i>
 </p> 
 
 ![](/tp2/photos/prismatica/prismatica_insatallation.jpg)|![](/tp2/photos/prismatica/prismatica_projection.jpg)|![](/tp2/photos/prismatica/prismatica_tableau.jpg)
