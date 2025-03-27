@@ -10,13 +10,13 @@ Photo prise en visitant l'exposition Résonnance.
 ## Exposition Visitée 
 
 Nous avons visité l'exposition temporaire Résonnance
-1- Internature
-2- Luminatura
-3- Etheria
-4- Fuga
-5- CON DU8
-6- Prismatica
-7- Arcadia
+1. Internature
+2. Luminatura
+3. Etheria
+4. Fuga
+5. CON DU8
+6. Prismatica
+7. Arcadia
 
 ---
 
