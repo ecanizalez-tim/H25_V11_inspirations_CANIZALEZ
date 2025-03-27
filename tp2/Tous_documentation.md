@@ -27,6 +27,7 @@ Fiche explicative | Équipe réalisant l'exposition | Capteur de mouvement
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/tp2/photos/internature/fiche_internatuel.JPG)|![](/tp2/photos/internature/internature_equipe.jpg)|![](/tp2/photos/internature/internature_capteur.jpg) 
 
+
 *Photo prise lors de la visite par Efraïm Canizalez*
 
 ---
@@ -61,6 +62,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 ![](/tp2/photos/luminatura/luminatura_olivier_en_contemplation.jpg)|![](/tp2/photos/luminatura/luminatura_ordi.jpg)|![](/tp2/photos/luminatura/luminatura_main_qui_teste.jpg)|![](/tp2/photos/luminatura/luminatura_equipe.jpg)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](/tp2/photos/luminatura/luminatura_projecteur.jpg)|![](/tp2/photos/luminatura/luminatura_projection.jpg)|![](/tp2/photos/luminatura/luminatura_speaker.jpg)|![](/tp2/photos/luminatura/fiche_luminatura.JPG)
+Projecteur |La projection | Speaker | Fiche explicative
 
 *Photo prise lors de la visite par Efraïm Canizalez*
 
