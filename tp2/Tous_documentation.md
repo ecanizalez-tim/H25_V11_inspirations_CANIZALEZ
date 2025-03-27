@@ -182,7 +182,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 ## Prismatica
 
 <p align="center">
-  <img src="/tp2/photos/prismatica/fiche_primitica.JPG" height= 400px>
+  <img src="/tp2/photos/prismatica/fiche_primitica.JPG" height= 400px><br>
   <i>Photo de la fiche prise lors de l'exposion -Efraïm Canizalez</i>
 </p> 
 
