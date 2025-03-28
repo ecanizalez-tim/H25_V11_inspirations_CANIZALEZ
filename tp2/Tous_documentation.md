@@ -10,7 +10,7 @@
 
 ## Exposition Visitée 
 
-Nous avons visité l'exposition temporaire Résonnance
+Nous avons visité l'exposition temporaire [Resonance](https://tim-montmorency.com/2025/#/)
 1. Internature
 2. Luminatura
 3. Etheria
