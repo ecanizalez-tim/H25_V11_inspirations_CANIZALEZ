@@ -34,7 +34,11 @@ Fiche explicative | Équipe réalisant l'exposition | Capteur de mouvement
 
 schéma d'installation
 
-![](/30_production/60_plantation/plantation_serre_3d.jpg)
+<p align="center">
+  <img src="/30_production/60_plantation/plantation_serre_3d.jpg" height= 400px><br>
+  <i>Photo de la fiche prise lors de l'exposion -Efraïm Canizalez</i>
+</p> 
+
 
 ---
 
