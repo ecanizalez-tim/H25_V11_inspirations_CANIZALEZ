@@ -99,11 +99,20 @@ Capteur/Projecteur/Speaker de la première version | Capteur/Projecteur/Speaker 
 
 ---
 
+### Nouvelle technologie
+
+Pour détecter uniquement les personnages et non tous les mouvements, l'équipe a utilisé une détection de mouvement basée sur ArUco. Cette technologie permet d'identifier et de suivre efficacement les marqueurs carrés placés sur les figurines, assurant un suivi rapide et précis.
+
+
+
+---
+
 ### Mon avis/ressantis
 
 Le concept était bien réalisé. J'ai aimé que ce soit un jeu immersif où l'on peut se déplacer à l'intérieur.
 J'aurais ajouté un contexte narratif pour renforcer l'immersio
 
+[Source]([https://ethereal-creators.github.io/Etheria/#/](https://docs-opencv-org.translate.goog/3.4/d9/d6d/tutorial_table_of_content_aruco.html?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=rq#:~:text=ArUco%20markers%20are%20binary%20square,pose%20estimation%20and%20camera%20calibration.))
 
 ---
 
