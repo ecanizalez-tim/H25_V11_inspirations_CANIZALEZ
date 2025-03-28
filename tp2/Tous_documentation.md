@@ -34,10 +34,10 @@ Fiche explicative | Équipe réalisant l'exposition | Capteur de mouvement
 
 schéma d'installation
 
-<p align="center">
-  <img src="/30_production/60_plantation/plantation_serre_3d.jpg" height= 400px><br>
-  <i>Photo de la fiche prise lors de l'exposion -Efraïm Canizalez</i>
-</p> 
+Plantation de la serre | Plantation de la sphère | Plantation dans le studio
+:-------------------------:|:-------------------------:|:-------------------------:
+![](/tp2/photos/internature/plantation_serre_3d.jpg)|![](/tp2/photos/internature/plantation_sphere.jpg)|![](/tp2/photos/internature/plantation_studio.jpg)
+
 
 
 ---
