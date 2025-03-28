@@ -101,7 +101,7 @@ Le dispositif est situé dans le centre de la pièce.
 
 
 
-- Responsabilité du partenaire :
+#### Responsabilité du partenaire :
 
 
 
@@ -111,7 +111,7 @@ Le dispositif est situé dans le centre de la pièce.
 
  
   
-- Responsabilité de l'artiste :
+##### Responsabilité de l'artiste :
 
 
 - Mise en place fluide et fonctionnement du projet,
