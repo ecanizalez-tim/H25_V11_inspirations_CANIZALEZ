@@ -119,4 +119,7 @@ bla bla
 
 ---
 
-connaissance nécéssaire
+### Références
+
+[Internature](https://tprangers.github.io/internature/#/)
+
