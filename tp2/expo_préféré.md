@@ -6,13 +6,15 @@
 </p>
 
 L'installation Internature de l'exposition temporaire [Resonance](https://tim-montmorency.com/2025/#/) fut ma préféré des 7 instalation présenter. 
-L'exposition c'est fait présenter au collège Montmorency. L'exposition était présenter du 17 au 21 mars 2025. Les finissants/finissantes qui ont réaliser ce dispositif sont: 
+L'exposition c'est fait présenter au collège Montmorency. 
+Nous avons visité l'exposition Resonance le 18 mars 2025.
+L'exposition était présenter du 17 au 21 mars 2025. Les finissants/finissantes qui ont réaliser ce dispositif sont: 
 Kenza El Harrif,
 Isaac Fafard,
 Delphine Grenier,
 Khaly Tia Sing et
 Sitmonternna Yi.
-Nous avons visité l'exposition Resonance le 18 mars 2025.
+Ce dispositif à été réaliser du 20 janvier 2025 au 14 mars 2025. 
 
 ---
 
@@ -25,7 +27,10 @@ Photo prise par moi au courrant de la visite.
 
 ---
 
-bla bla
+«Internature est un tunnel immersif qui intègre le mapping vidéo interactif sur ses parois accompagné d'une musique ambiante et des bruitages afin de vraiment submerger l'utilisateur dans un environnement de nature synthétique. Au cœur de cet environnement, l’utilisateur est invité à interagir avec une boule pour embellir l'environnement, déclenchant finalement un spectacle de lumière dynamique intéractif au toucher et l’amenant à réfléchir sur l’impact de l’être humain sur celle-ci.» -l'équipe de Internature
+
+- Le dispositif est de type intéractif et contaplatif.
+- Fonction du dispositif 
 
 ---
 
