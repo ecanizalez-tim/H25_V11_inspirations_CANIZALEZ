@@ -45,9 +45,7 @@ Plantation de la serre | Plantation de la sphère | Plantation dans le studio
 
 ### Mon avis/ressantis
 
-J'ai aimer l'intéractiviter de l'exposition. 
-Il a été bien penser de faire que les oders soit limité pour ne pas avoir un grand mélange d'odeurs. 
-De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
+
 
 ---
 
@@ -74,9 +72,7 @@ Projecteur |La projection | Speaker | Fiche explicative
 
 ### Mon avis/ressantis
 
-J'ai aimer l'intéractiviter de l'exposition. 
-Il a été bien penser de faire que les oders soit limité pour ne pas avoir un grand mélange d'odeurs. 
-De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
+
 
 ---
 
@@ -103,9 +99,7 @@ Capteur/Projecteur/Speaker de la première version | Capteur/Projecteur/Speaker 
 
 ### Mon avis/ressantis
 
-J'ai aimer l'intéractiviter de l'exposition. 
-Il a été bien penser de faire que les oders soit limité pour ne pas avoir un grand mélange d'odeurs. 
-De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
+
 
 ---
 
@@ -133,9 +127,10 @@ Plantation vu du haut | Plantation vue de face
 
 ### Mon avis/ressantis
 
-J'ai aimer l'intéractiviter de l'exposition. 
-Il a été bien penser de faire que les oders soit limité pour ne pas avoir un grand mélange d'odeurs. 
-De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
+J'ai aimé que les trois objet interactif ne soit pas le même et qu'ils n'aient pas les mêmes fonctions. Par exemple, que une soit interactif avec la lumière capter mais pas les deux autres. 
+J'aimais aussi que ont puisse voir les trois abres dans les trois écrans.
+
+Je trouvais par contre qu'on fesait vite le tour du dispositif. Il manqué peut-être une certaines interaction avec les visiteurs. Un certain but, par exemple si les trois arbres soit tous le plus haut qu'il y est une animation. Sinon, une leçon sur la pollution et la déforestation. 
 
 ---
 
@@ -162,9 +157,10 @@ Roue vue de gauche | Roue vue de droite | Test de la première version | Fiche e
 
 ### Mon avis/ressantis
 
-J'ai aimer l'intéractiviter de l'exposition. 
-Il a été bien penser de faire que les oders soit limité pour ne pas avoir un grand mélange d'odeurs. 
-De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
+J'ai trouver ça intérressant de devoir faire du sport pour jouer. 
+J'ai aussi trouvé ça intelligent de leur part de prendre un vélo comme interraction comme la majorité des personnes peuvent intéragir avec leur dispositif. 
+
+Je trouvais que les capteurs pour faire les virages ne prennais pas trèes bien. Le dispositif n'est pas inclussif. 
 
 ---
 
@@ -197,9 +193,9 @@ Plantation de l'exposition | Plantation cable management
 
 ### Mon avis/ressantis
 
-J'ai aimer l'intéractiviter de l'exposition. 
-Il a été bien penser de faire que les oders soit limité pour ne pas avoir un grand mélange d'odeurs. 
-De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
+C'est bien fait d'avoir assoicié un son a un couleur. 
+
+Mais, si on fait des dessins plus complexe il ne capte pas bien. J'aurais aimé avoir plus de liberté en interaction avec le dispositif. 
 
 ---
 
@@ -224,9 +220,10 @@ Teste de la permière version| Première version  | Version finale
 
 ### Mon avis/ressantis
 
-J'ai aimer l'intéractiviter de l'exposition. 
-Il a été bien penser de faire que les oders soit limité pour ne pas avoir un grand mélange d'odeurs. 
-De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
+Le jeu et les graphismes ont bien été réaliser. L'histoire avait l'aire intéressante. Je trouvais cela amusant de voir une arcade. 
+Je trouvais cela dommage par exemple qu'il n'y ai rien de nouveau sur la machine d'arcade. L'intéraction n'est qu'un jeu sur un arcade sans apporté de nouveauté donc cela ma déçu. 
+
+Personnellement j'aurais essayer d'intégrer une nouveauté à la borne d'arcade une intéraction nouvelle. 
 
 ---
 
