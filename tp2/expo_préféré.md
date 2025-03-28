@@ -99,17 +99,17 @@ Le dispositif est situé dans le centre de la pièce.
 
 
 
-- Responsabilité du partenaire:
-- Emplacement de studio avec électricité et Ethernet disponible	
-- Disposition d'un budget nécessaire à la conception du projet
-- Fourniture des matériels possédés par le partenaire
+- Responsabilité du partenaire :
+- Emplacement de studio avec électricité et Ethernet disponible,	
+- Disposition d'un budget nécessaire à la conception du projet,
+- Fourniture des matériels possédés par le partenaire.
 
 
   
-- Responsabilité de l'artiste:
-- Mise en place fluide et fonctionnement du projet
-- Assuré de prévoir les biens matériels nécessaires
-- Assuré de la mise en place selon les délais imposés
+- Responsabilité de l'artiste :
+- Mise en place fluide et fonctionnement du projet,
+- Assuré de prévoir les biens matériels nécessaires,
+- Assuré de la mise en place selon les délais imposés.
 
   Information prise dans le Github de l'équipe Internature
 
