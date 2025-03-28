@@ -1,4 +1,4 @@
-#  Internature 
+#  Exposition des finissant du programme TIM 2025 : Internature 
 
 <p align="center">
   <img src="/tp2/photos/internature/internature_equipe.jpg" height= 400px>
