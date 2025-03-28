@@ -6,6 +6,7 @@
 </p>
 
 [Bande annonce](https://youtu.be/dI_DeIEkmxw)
+
 [Vidéo promotionnelle](https://www.youtube.com/watch?v=vxIGUEq9AZg&t=5s)
 
 L'installation Internature de l'exposition temporaire [Resonance](https://tim-montmorency.com/2025/#/) a été ma préférée parmi les sept installations présentées.
