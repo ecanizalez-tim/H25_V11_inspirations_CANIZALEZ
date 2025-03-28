@@ -233,15 +233,15 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ### Expériance néssecaire
 
-#### Objets interactifs
+#### Objets interactifs :
 
 Ce cours permet d'intégrer des technologies à un dispositif interactif.
   
-#### Conception d’une expérience multimédia
+#### Conception d’une expérience multimédia :
 
 Ce cours a pour but de trouver et commencer la réalisation du dispositif.
 
-#### Œuvres et dispositifs multimédias en exposition
+#### Œuvres et dispositifs multimédias en exposition :
 
 Pour pouvoir doccunmenter le procéssus de création du dispositif.
 
