@@ -38,7 +38,7 @@ Plantation de la serre | Plantation de la sphère | Plantation dans le studio
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/tp2/photos/internature/plantation_serre_3d.jpg)|![](/tp2/photos/internature/plantation_sphere.jpg)|![](/tp2/photos/internature/plantation_studio.jpg)
 
-*Photo prise lors de la visite par Efraïm Canizalez*
+*Photo de la plantation via le Github Internature*
 
 ---
 
@@ -156,7 +156,7 @@ Plantation vu du haut | Plantation vue de face
 :-------------------------:|:-------------------------:
 ![](/tp2/photos/fuga/plantation-sky_fuga.png)|![](/tp2/photos/fuga/fuga-face_plantation.png)
 
-*Photo prise lors de la visite par Efraïm Canizalez*
+*Photo de la plantation via le Github Fuga*
 
 ---
 
@@ -239,7 +239,8 @@ Utilisation de la version finale  | Intégration sonore de la version finale | V
 Plantation de l'exposition | Plantation cable management 
 :-------------------------:|:-------------------------:
 ![](/tp2/photos/prismatica/prismatica_plan1.jpg)|![](/tp2/photos/prismatica/primsatica_plan2.jpg)
-*Photo prise lors de la visite par Efraïm Canizalez*
+
+*Photo de la plantation via le Github Prismatica*
 
 ---
 
