@@ -5,7 +5,7 @@
   <i>Photo de l'équipe</i>
 </p>
 
-![Resonance]((https://tim-montmorency.com/2025/#/))
+[Resonance]((https://tim-montmorency.com/2025/#/))
 
 ---
 
