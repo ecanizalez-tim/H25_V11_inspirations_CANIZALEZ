@@ -226,6 +226,7 @@ Le jeu et les graphismes étaient bien réalisés. L'histoire semblait intéress
 Cependant, j'ai été un peu déçu qu'il n'y ait pas de nouveauté dans l'interaction avec la borne. Cela restait un simple jeu sur une machine d'arcade sans innovation marquante.
 
 J'aurais aimé voir une interaction nouvelle et originale intégrée à la borne d'arcade pour la moderniser et enrichir l'expérience utilisateur.
+
 ---
 
 
