@@ -5,16 +5,22 @@
   <i>Photo de l'équipe</i>
 </p>
 
-L'installation Internature de l'exposition temporaire [Resonance](https://tim-montmorency.com/2025/#/) fut ma préféré des 7 instalation présenter. 
-L'exposition c'est fait présenter au collège Montmorency. 
-Nous avons visité l'exposition Resonance le 18 mars 2025.
-L'exposition était présenter du 17 au 21 mars 2025. Les finissants/finissantes qui ont réaliser ce dispositif sont: 
-Kenza El Harrif,
-Isaac Fafard,
-Delphine Grenier,
-Khaly Tia Sing et
-Sitmonternna Yi.
-Ce dispositif à été réaliser du 20 janvier 2025 au 14 mars 2025. 
+L'installation Internature de l'exposition temporaire [Resonance](https://tim-montmorency.com/2025/#/) a été ma préférée parmi les sept installations présentées.
+L'exposition s'est tenue au [Collège Montmorency](https://www.cmontmorency.qc.ca) du 17 au 21 mars 2025, et nous l'avons visitée le 18 mars.
+
+Les finissants et finissantes ayant réalisé ce dispositif sont :
+
+Kenza El Harrif
+
+Isaac Fafard
+
+Delphine Grenier
+
+Khaly Tia Sing
+
+Sitmonternna Yi
+
+Le projet a été conçu et développé du 20 janvier au 14 mars 2025.
 
 ---
 
