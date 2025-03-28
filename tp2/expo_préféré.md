@@ -5,7 +5,8 @@
   <i>Photo de l'équipe</i>
 </p>
 
-[Resonance](https://tim-montmorency.com/2025/#/)
+L'installation Internature de l'exposition temporaire [Resonance](https://tim-montmorency.com/2025/#/) fut ma préféré des 7 instalation présenter. 
+L'exposition c'est fait présenter au collège Montmorency. L'exposition était présenter du 17 au 21 mars 2025. 
 
 ---
 
