@@ -60,24 +60,26 @@ Le dispositif est situé dans le centre de la pièce.
 - Capteur de tracking
 - Capturent le mouvement ou la profondeur de l’espace pour analyser les actions des utilisateurs.
 
+
+
 - Kinect (RGB, IR, Profondeur)
 - LIDAR
 - Capteurs avancés permettant une cartographie 3D en temps réel de l’espace environnant, détectant les distances et les mouvements à distance.
 
- 
+
 
 - LIDAR
 - Processeurs
 - Stations de travail multimédia
 - Nécessaires pour le traitement en temps réel des médias riches (vidéo, audio, projection).
 
-  
+
 
 - PC avec GPU dédié
 - Microcontrôleurs
 - Utilisés pour des tâches spécifiques de calcul en temps réel, comme le contrôle des lumières ou des moteurs dans des installations interactives.
 
-  
+
 
 - Arduino
 - ESP32 (m5Stack Atom)
@@ -85,7 +87,7 @@ Le dispositif est situé dans le centre de la pièce.
 - Vidéo
 - Utilisés pour diffuser des vidéos interactives, des images animées, ou des informations.
 
-  
+
 
 - Projecteurs haute résolution
 - Audio
@@ -93,13 +95,16 @@ Le dispositif est situé dans le centre de la pièce.
 - Lumières
 - Permettent de créer des environnements lumineux dynamiques.
 
- 
-  
+
+
 - LEDs adressables
 
- 
+
 
 - Responsabilité du partenaire :
+
+
+
 - Emplacement de studio avec électricité et Ethernet disponible,	
 - Disposition d'un budget nécessaire à la conception du projet,
 - Fourniture des matériels possédés par le partenaire.
@@ -107,6 +112,8 @@ Le dispositif est situé dans le centre de la pièce.
  
   
 - Responsabilité de l'artiste :
+
+
 - Mise en place fluide et fonctionnement du projet,
 - Assuré de prévoir les biens matériels nécessaires,
 - Assuré de la mise en place selon les délais imposés.
