@@ -14,7 +14,7 @@ Nous avons visité l'exposition temporaire [Resonance](https://tim-montmorency.c
 Voici les 7 installation présenter par les finissants/finissantes du programme TIM du collège Montmorency:
 1. Internature
 2. Luminatura
-3. Etheria
+3. Étheria
 4. Fuga
 5. CON DU8
 6. Prismatica
@@ -22,7 +22,7 @@ Voici les 7 installation présenter par les finissants/finissantes du programme 
 
 ---
 
-## Internature
+## [Internature](https://tprangers.github.io/internature/#/)
 
 Fiche explicative | Équipe réalisant l'exposition | Capteur de mouvement
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -61,7 +61,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 ---
 
 
-## Luminatura
+## [Luminatura](https://miaou-mafia.github.io/projet-luminatura/#/)
 
 Olivier en contemplation |  Ordinatuer avec les programmes nécéssaire | Cédric en utilisation de l'exposition | Équipe réalisant le tout
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -100,7 +100,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 ---
 
 
-## Etheria
+## [Étheria](https://ethereal-creators.github.io/Etheria/#/)
 
 Équipe réalisant le tout | Joystick pour jouer de la première version | Ordinatuer avec les programmes nécéssaire | Table avec la projection du jeu
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -116,7 +116,7 @@ Capteur/Projecteur/Speaker de la première version | Capteur/Projecteur/Speaker 
 
 <p align="center">
   <img src="/tp2/photos/etheria/plantation_etheria.jpg" height= 400px><br>
-  <i>Photo de la plantation via le Github Etheria</i>
+  <i>Photo de la plantation via le Github Étheria</i>
 </p> 
 
 ---
@@ -139,7 +139,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 ---
 
 
-## Fuga
+## [Fuga](https://escapism-fuga.github.io/Fuga/#/)
 
 Télévision montrant le résultat de l'intération | Vue d'ensemble | Deuxième vue d'emsemble  | Fiche de l'exposition
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -179,7 +179,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 ---
 
 
-## CON DU8
+## [CON DU8](https://gearshift-games.github.io/Web-C0N-DU8/#/)
 
 Roue vue de gauche | Roue vue de droite | Test de la première version | Fiche explicative 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -218,7 +218,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 ---
 
 
-## Prismatica
+## [Prismatica](https://pootpookies.github.io/Prismatica/#/)
 
 <p align="center">
   <img src="/tp2/photos/prismatica/fiche_primitica.JPG" height= 400px><br>
@@ -263,7 +263,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 ---
 
 
-## Arcadia
+## [Arcadia](https://cousi-cousa.github.io/Arcadia/#/)
 
 Teste de la permière version| Première version  | Version finale
 :-------------------------:|:-------------------------:|:-------------------------:
