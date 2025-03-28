@@ -5,6 +5,9 @@
   <i>Photo de l'équipe</i>
 </p>
 
+[Bande annonce](https://youtu.be/dI_DeIEkmxw)
+[Vidéo promotionnelle](https://www.youtube.com/watch?v=vxIGUEq9AZg&t=5s)
+
 L'installation Internature de l'exposition temporaire [Resonance](https://tim-montmorency.com/2025/#/) a été ma préférée parmi les sept installations présentées.
 L'exposition s'est tenue au [Collège Montmorency](https://www.cmontmorency.qc.ca) du 17 au 21 mars 2025, et nous l'avons visitée le 18 mars.
 
