@@ -45,9 +45,8 @@ Plantation de la serre | Plantation de la sphère | Plantation dans le studio
 
 ### Mon avis/ressantis
 
-C'était cool que la boule bouge la projection dans la serre. L'immerssion était fun.
-
-L'animation se voyait parfois pas super bien j'aurais changer de place le dispositif.
+C'était intéressant que la boule déplace la projection dans la serre. L'immersion était captivante.
+L'animation n'était parfois pas très visible, j'aurais changé l'emplacement du dispositif.
 
 ---
 
@@ -74,9 +73,8 @@ Projecteur |La projection | Speaker | Fiche explicative
 
 ### Mon avis/ressantis
 
-Concepte intéressant, et l'installation est très belle. L'itéraction était le fun de voir les couleur changer et fusionner dépandant de la plaque touché.
-
-J'aurais intégrer que la lumière apparaissent avec ce qu'on dessine sur la tablette.
+Concept intéressant, et l'installation était très esthétique. L'interaction était fascinante, voir les couleurs changer et fusionner selon la plaque touchée.
+J'aurais intégré une fonctionnalité permettant à la lumière d'apparaître en fonction des dessins réalisés sur la tablette.
 
 ---
 
@@ -103,9 +101,8 @@ Capteur/Projecteur/Speaker de la première version | Capteur/Projecteur/Speaker 
 
 ### Mon avis/ressantis
 
-Le concepte été intéressant. Il a aussi bien été réaliser. J'ai aimer que ce soit un jeu mais que on soit dedans. Que puisse se déplacer dedans avec les codes.
-
-J'aurais ajouté une contexte, une certaine hitoire pour avoir un plus grosse immersion. 
+Le concept était bien réalisé. J'ai aimé que ce soit un jeu immersif où l'on peut se déplacer à l'intérieur.
+J'aurais ajouté un contexte narratif pour renforcer l'immersio
 
 
 ---
@@ -134,10 +131,8 @@ Plantation vu du haut | Plantation vue de face
 
 ### Mon avis/ressantis
 
-J'ai aimé que les trois objet interactif ne soit pas le même et qu'ils n'aient pas les mêmes fonctions. Par exemple, que une soit interactif avec la lumière capter mais pas les deux autres. 
-J'aimais aussi que ont puisse voir les trois abres dans les trois écrans.
-
-Je trouvais par contre qu'on fesait vite le tour du dispositif. Il manqué peut-être une certaines interaction avec les visiteurs. Un certain but, par exemple si les trois arbres soit tous le plus haut qu'il y est une animation. Sinon, une leçon sur la pollution et la déforestation. 
+J'ai aimé la diversité des objets interactifs et leurs fonctions distinctes. Le fait de voir les trois arbres sur les trois écrans était intéressant.
+Cependant, l'interaction était limitée. J'aurais ajouté un objectif plus engageant, comme un message écologique sur la pollution et la déforestation.
 
 ---
 
@@ -164,10 +159,9 @@ Roue vue de gauche | Roue vue de droite | Test de la première version | Fiche e
 
 ### Mon avis/ressantis
 
-J'ai trouver ça intérressant de devoir faire du sport pour jouer. 
-J'ai aussi trouvé ça intelligent de leur part de prendre un vélo comme interraction comme la majorité des personnes peuvent intéragir avec leur dispositif. 
+J'ai trouvé intéressant de devoir faire du sport pour jouer. L'utilisation du vélo comme interaction était une idée ingénieuse, rendant l'expérience accessible à la plupart des visiteurs.
 
-Je trouvais que les capteurs pour faire les virages ne prennais pas trèes bien. Le dispositif n'est pas inclussif. 
+Cependant, les capteurs pour effectuer les virages manquaient parfois de précision. De plus, le dispositif pourrait être amélioré pour être plus inclusif et accessible à un plus large public.
 
 ---
 
@@ -200,9 +194,9 @@ Plantation de l'exposition | Plantation cable management
 
 ### Mon avis/ressantis
 
-C'est bien fait d'avoir assoicié un son a un couleur. 
+J'ai trouvé intéressant de devoir faire du sport pour jouer. L'utilisation du vélo comme interaction était une idée ingénieuse, rendant l'expérience accessible à la plupart des visiteurs.
 
-Mais, si on fait des dessins plus complexe il ne capte pas bien. J'aurais aimé avoir plus de liberté en interaction avec le dispositif. 
+Cependant, les capteurs pour effectuer les virages manquaient parfois de précision. De plus, le dispositif pourrait être amélioré pour être plus inclusif et accessible à un plus large public.
 
 ---
 
@@ -227,11 +221,11 @@ Teste de la permière version| Première version  | Version finale
 
 ### Mon avis/ressantis
 
-Le jeu et les graphismes ont bien été réaliser. L'histoire avait l'aire intéressante. Je trouvais cela amusant de voir une arcade. 
-Je trouvais cela dommage par exemple qu'il n'y ai rien de nouveau sur la machine d'arcade. L'intéraction n'est qu'un jeu sur un arcade sans apporté de nouveauté donc cela ma déçu. 
+Le jeu et les graphismes étaient bien réalisés. L'histoire semblait intéressante, et j'ai trouvé amusant de voir une borne d'arcade revisitée.
 
-Personnellement j'aurais essayer d'intégrer une nouveauté à la borne d'arcade une intéraction nouvelle. 
+Cependant, j'ai été un peu déçu qu'il n'y ait pas de nouveauté dans l'interaction avec la borne. Cela restait un simple jeu sur une machine d'arcade sans innovation marquante.
 
+J'aurais aimé voir une interaction nouvelle et originale intégrée à la borne d'arcade pour la moderniser et enrichir l'expérience utilisateur.
 ---
 
 
