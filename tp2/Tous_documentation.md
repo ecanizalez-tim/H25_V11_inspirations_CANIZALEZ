@@ -45,7 +45,9 @@ Plantation de la serre | Plantation de la sphère | Plantation dans le studio
 
 ### Mon avis/ressantis
 
+C'était cool que la boule bouge la projection dans la serre. L'immerssion était fun.
 
+L'animation se voyait parfois pas super bien j'aurais changer de place le dispositif.
 
 ---
 
@@ -72,7 +74,9 @@ Projecteur |La projection | Speaker | Fiche explicative
 
 ### Mon avis/ressantis
 
+Concepte intéressant, et l'installation est très belle. L'itéraction était le fun de voir les couleur changer et fusionner dépandant de la plaque touché.
 
+J'aurais intégrer que la lumière apparaissent avec ce qu'on dessine sur la tablette.
 
 ---
 
@@ -99,6 +103,9 @@ Capteur/Projecteur/Speaker de la première version | Capteur/Projecteur/Speaker 
 
 ### Mon avis/ressantis
 
+Le concepte été intéressant. Il a aussi bien été réaliser. J'ai aimer que ce soit un jeu mais que on soit dedans. Que puisse se déplacer dedans avec les codes.
+
+J'aurais ajouté une contexte, une certaine hitoire pour avoir un plus grosse immersion. 
 
 
 ---
