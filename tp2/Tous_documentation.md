@@ -110,8 +110,7 @@ Pour détecter uniquement les personnages et non tous les mouvements, l'équipe 
 ### Mon avis/ressantis
 
 Le concept était bien réalisé. J'ai aimé que ce soit un jeu immersif où l'on peut se déplacer à l'intérieur.
-J'aurais ajouté un contexte narratif pour renforcer l'immersio
-
+J'aurais ajouté un contexte narratif pour renforcer l'immersion. 
 [Source]([https://ethereal-creators.github.io/Etheria/#/](https://docs-opencv-org.translate.goog/3.4/d9/d6d/tutorial_table_of_content_aruco.html?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=rq#:~:text=ArUco%20markers%20are%20binary%20square,pose%20estimation%20and%20camera%20calibration.))
 
 ---
