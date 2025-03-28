@@ -128,7 +128,9 @@ Le dispositif est situé dans le centre de la pièce.
 
 ### Mon avis 
 
-bla bla
+L’aspect interactif de l’installation était particulièrement fascinant, notamment la manière dont la boule permettait de déplacer la projection à l’intérieur de la serre. Cette interaction offrait une véritable immersion, rendant l’expérience captivante et presque magique.  
+
+Cependant, j’ai remarqué que l’animation n’était parfois pas très visible selon l’angle de vue. Pour améliorer cela, j’aurais repositionné le dispositif ou ajusté l’intensité de la projection afin d’optimiser la visibilité et l’impact visuel. Peut-être qu’un éclairage adapté ou un contraste plus marqué aurait aussi renforcé l’effet immersif de l’expérience.
 
 ---
 
