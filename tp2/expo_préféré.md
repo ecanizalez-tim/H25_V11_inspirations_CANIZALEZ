@@ -116,7 +116,7 @@ Le dispositif est situé dans le centre de la pièce.
 - Assuré de prévoir les biens matériels nécessaires,
 - Assuré de la mise en place selon les délais imposés.
 
-  Information prise dans le Github de l'équipe Internature
+  *Information prise dans le Github de l'équipe Internature*
 
 ---
 
