@@ -11,6 +11,7 @@
 ## Exposition Visitée 
 
 Nous avons visité l'exposition temporaire [Resonance](https://tim-montmorency.com/2025/#/) au [Collège Montmorency](https://www.cmontmorency.qc.ca) le 18 mars 2025.
+Voici les 7 installation présenter par les finissants/finissantes du programme TIM du collège Montmorency:
 1. Internature
 2. Luminatura
 3. Etheria
