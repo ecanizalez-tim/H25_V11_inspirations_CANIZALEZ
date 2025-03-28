@@ -30,7 +30,7 @@ Photo prise par moi au courrant de la visite.
 «Internature est un tunnel immersif qui intègre le mapping vidéo interactif sur ses parois accompagné d'une musique ambiante et des bruitages afin de vraiment submerger l'utilisateur dans un environnement de nature synthétique. Au cœur de cet environnement, l’utilisateur est invité à interagir avec une boule pour embellir l'environnement, déclenchant finalement un spectacle de lumière dynamique intéractif au toucher et l’amenant à réfléchir sur l’impact de l’être humain sur celle-ci.» -l'équipe de Internature
 
 - Le dispositif est de type intéractif et contaplatif.
-- Fonction du dispositif 
+- Fonction du dispositif est scénographie.
 
 ---
 
@@ -42,7 +42,7 @@ Photo prise par moi au courrant de la visite.
 
 ---
 
-bla bla explication de l'intercativité avec le dispositif.
+Le dispositif est situé dans le centre de la pièce. 
 
 ---
 
@@ -54,7 +54,47 @@ Photo prise lors de la visite par Efraïm Canizalez
 
 ---
 
-bla bla explication des technologie du dispositif.
+- Capteur de tracking
+- Capturent le mouvement ou la profondeur de l’espace pour analyser les actions des utilisateurs.
+
+- Kinect (RGB, IR, Profondeur)
+- LIDAR
+- Capteurs avancés permettant une cartographie 3D en temps réel de l’espace environnant, détectant les distances et les mouvements à distance.
+
+- LIDAR
+- Processeurs
+- Stations de travail multimédia
+- Nécessaires pour le traitement en temps réel des médias riches (vidéo, audio, projection).
+
+- PC avec GPU dédié
+- Microcontrôleurs
+- Utilisés pour des tâches spécifiques de calcul en temps réel, comme le contrôle des lumières ou des moteurs dans des installations interactives.
+
+- Arduino
+- ESP32 (m5Stack Atom)
+- Diffusion
+- Vidéo
+- Utilisés pour diffuser des vidéos interactives, des images animées, ou des informations.
+
+- Projecteurs haute résolution
+- Audio
+- Hauts-parleurs actifs
+- Lumières
+- Permettent de créer des environnements lumineux dynamiques.
+  
+- LEDs adressables
+
+- Responsabilité du partenaire:
+- Emplacement de studio avec électricité et Ethernet disponible	
+- Disposition d'un budget nécessaire à la conception du projet
+- Fourniture des matériels possédés par le partenaire
+  
+- Responsabilité de l'artiste:
+- Mise en place fluide et fonctionnement du projet
+- Assuré de prévoir les biens matériels nécessaires
+- Assuré de la mise en place selon les délais imposés
+
+  Information prise dans le Github de l'équipe Internature
 
 ---
 
