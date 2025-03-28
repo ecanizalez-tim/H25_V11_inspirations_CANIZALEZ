@@ -32,15 +32,11 @@ Fiche explicative | Équipe réalisant l'exposition | Capteur de mouvement
 
 ---
 
-schéma d'installation
+### Schéma d'installation
 
 Plantation de la serre | Plantation de la sphère | Plantation dans le studio
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/tp2/photos/internature/plantation_serre_3d.jpg)|![](/tp2/photos/internature/plantation_sphere.jpg)|![](/tp2/photos/internature/plantation_studio.jpg)
-
-
-
----
 
 *Photo prise lors de la visite par Efraïm Canizalez*
 
@@ -62,6 +58,7 @@ Il a été bien penser de faire que les oders soit limité pour ne pas avoir un 
 De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
 
 ---
+
 
 ## Luminatura
 
@@ -75,7 +72,12 @@ Projecteur |La projection | Speaker | Fiche explicative
 
 ---
 
-schéma d'installation
+### Schéma d'installation
+
+<p align="center">
+  <img src="/tp2/photos/luminatura/luminatura_plantation.jpg" height= 400px><br>
+  <i>Photo de la plantation via le Github Luminatura</i>
+</p> 
 
 ---
 
@@ -95,6 +97,7 @@ Il a été bien penser de faire que les oders soit limité pour ne pas avoir un 
 De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
 
 ---
+
 
 ## Etheria
 
@@ -108,7 +111,12 @@ Capteur/Projecteur/Speaker de la première version | Capteur/Projecteur/Speaker 
 
 ---
 
-schéma d'installation
+### Schéma d'installation
+
+<p align="center">
+  <img src="/tp2/photos/etheria/plantation_etheria.jpg" height= 400px><br>
+  <i>Photo de la plantation via le Github Etheria</i>
+</p> 
 
 ---
 
@@ -128,6 +136,7 @@ Il a été bien penser de faire que les oders soit limité pour ne pas avoir un 
 De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
 
 ---
+
 
 ## Fuga
 
@@ -141,7 +150,7 @@ Manette intéracitve #1 | Manette intéracitve #2 | Manette intéracitve #3 | Tr
 
 ---
 
-schéma d'installation
+### Schéma d'installation
 
 ---
 
@@ -161,6 +170,7 @@ Il a été bien penser de faire que les oders soit limité pour ne pas avoir un 
 De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
 
 ---
+
 
 ## CON DU8
 
@@ -174,7 +184,12 @@ Roue vue de gauche | Roue vue de droite | Test de la première version | Fiche e
 
 ---
 
-schéma d'installation
+### Schéma d'installation!
+
+<p align="center">
+  <img src="/tp2/photos/condu8/plantation_condu8.webp" height= 400px><br>
+  <i>Photo de la plantation via le Github CON DU8</i>
+</p> 
 
 ---
 
@@ -194,6 +209,7 @@ Il a été bien penser de faire que les oders soit limité pour ne pas avoir un 
 De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
 
 ---
+
 
 ## Prismatica
 
@@ -212,7 +228,9 @@ Utilisation de la version finale  | Intégration sonore de la version finale | V
 
 ---
 
-schéma d'installation
+### Schéma d'installation
+
+
 
 ---
 
@@ -233,6 +251,7 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ---
 
+
 ## Arcadia
 
 Teste de la permière version| Première version  | Version finale
@@ -243,7 +262,12 @@ Teste de la permière version| Première version  | Version finale
 
 ---
 
-schéma d'installation
+### Schéma d'installation
+
+<p align="center">
+  <img src="/tp2/photos/arcadia/implantation_arcadia.png" height= 400px><br>
+  <i>Photo de la plantation via le Github Arcadia</i>
+</p> 
 
 ---
 
