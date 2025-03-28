@@ -1,10 +1,10 @@
-#  Résonnance
+#  Resonance
 
 <p align="center">
   <img src="/tp2/photos/entree_projection.JPG" height= 400px>
 </p> 
 
-*Photo prise en visitant l'exposition Résonnance.*
+*Photo prise en visitant l'exposition Resonance.*
 
 ---
 
