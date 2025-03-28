@@ -23,7 +23,8 @@ Ce dispositif à été réaliser du 20 janvier 2025 au 14 mars 2025.
 <p align="center">
   <img src="/tp2/photos/internature/fiche_internatuel.JPG" height= 400px>
 </p>
-Photo prise par moi au courrant de la visite.
+
+*Photo prise par moi au courrant de la visite.*
 
 ---
 
@@ -40,6 +41,8 @@ Photo prise par moi au courrant de la visite.
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/tp2/photos/internature/internature_projection_dans_tunnel.jpg)|![](/tp2/photos/internature/internature_vu_dans_tunnel.jpg)|![](/tp2/photos/internature/internature_projection_dans_tunnel_droite.jpg)
 
+*Photo prise lors de la visite par Efraïm Canizalez*
+
 ---
 
 Le dispositif est situé dans le centre de la pièce. 
@@ -50,7 +53,7 @@ Le dispositif est situé dans le centre de la pièce.
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/tp2/photos/internature/internature_capteur.jpg)|![](/tp2/photos/internature/internature_projection.jpg)|![](/tp2/photos/internature/internature_prototype.jpg)
 
-Photo prise lors de la visite par Efraïm Canizalez
+*Photo prise lors de la visite par Efraïm Canizalez*
 
 ---
 
@@ -111,7 +114,7 @@ bla bla
 <p align="center">
   <img src="/tp2/photos/internature/internature_ordi.jpg" height= 400px>
 </p>
-Photo prise lors de la visite par Efraïm Canizalez
+*Photo prise lors de la visite par Efraïm Canizalez*
 
 ---
 
