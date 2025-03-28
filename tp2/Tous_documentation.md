@@ -51,16 +51,6 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ---
 
-
-### Expériance néssecaire
-
-J'ai aimer l'intéractiviter de l'exposition. 
-Il a été bien penser de faire que les oders soit limité pour ne pas avoir un grand mélange d'odeurs. 
-De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
-
----
-
-
 ## [Luminatura](https://miaou-mafia.github.io/projet-luminatura/#/)
 
 Olivier en contemplation |  Ordinatuer avec les programmes nécéssaire | Cédric en utilisation de l'exposition | Équipe réalisant le tout
@@ -90,16 +80,6 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ---
 
-
-### Expériance néssecaire
-
-J'ai aimer l'intéractiviter de l'exposition. 
-Il a été bien penser de faire que les oders soit limité pour ne pas avoir un grand mélange d'odeurs. 
-De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
-
----
-
-
 ## [Étheria](https://ethereal-creators.github.io/Etheria/#/)
 
 Équipe réalisant le tout | Joystick pour jouer de la première version | Ordinatuer avec les programmes nécéssaire | Table avec la projection du jeu
@@ -128,16 +108,6 @@ Il a été bien penser de faire que les oders soit limité pour ne pas avoir un 
 De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
 
 ---
-
-
-### Expériance néssecaire
-
-J'ai aimer l'intéractiviter de l'exposition. 
-Il a été bien penser de faire que les oders soit limité pour ne pas avoir un grand mélange d'odeurs. 
-De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
-
----
-
 
 ## [Fuga](https://escapism-fuga.github.io/Fuga/#/)
 
@@ -169,16 +139,6 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ---
 
-
-### Expériance néssecaire
-
-J'ai aimer l'intéractiviter de l'exposition. 
-Il a été bien penser de faire que les oders soit limité pour ne pas avoir un grand mélange d'odeurs. 
-De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
-
----
-
-
 ## [CON DU8](https://gearshift-games.github.io/Web-C0N-DU8/#/)
 
 Roue vue de gauche | Roue vue de droite | Test de la première version | Fiche explicative 
@@ -207,16 +167,6 @@ Il a été bien penser de faire que les oders soit limité pour ne pas avoir un 
 De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
 
 ---
-
-
-### Expériance néssecaire
-
-J'ai aimer l'intéractiviter de l'exposition. 
-Il a été bien penser de faire que les oders soit limité pour ne pas avoir un grand mélange d'odeurs. 
-De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
-
----
-
 
 ## [Prismatica](https://pootpookies.github.io/Prismatica/#/)
 
@@ -253,16 +203,6 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ---
 
-
-### Expériance néssecaire
-
-J'ai aimer l'intéractiviter de l'exposition. 
-Il a été bien penser de faire que les oders soit limité pour ne pas avoir un grand mélange d'odeurs. 
-De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
-
----
-
-
 ## [Arcadia](https://cousi-cousa.github.io/Arcadia/#/)
 
 Teste de la permière version| Première version  | Version finale
@@ -293,8 +233,16 @@ De plus, le côté plus éducatif était interessant et apporter d'un bonne faç
 
 ### Expériance néssecaire
 
-J'ai aimer l'intéractiviter de l'exposition. 
-Il a été bien penser de faire que les oders soit limité pour ne pas avoir un grand mélange d'odeurs. 
-De plus, le côté plus éducatif était interessant et apporter d'un bonne façon pour que ça plait au grand publique. 
+- Objets interactifs
+
+Ce cours permet d'intégrer des technologies à un dispositif interactif.
+  
+- Conception d’une expérience multimédia
+
+Ce cours a pour but de trouver et commencer la réalisation du dispositif.
+
+- Œuvres et dispositifs multimédias en exposition
+
+Pour pouvoir doccunmenter le procéssus de création du dispositif.
 
 ---
