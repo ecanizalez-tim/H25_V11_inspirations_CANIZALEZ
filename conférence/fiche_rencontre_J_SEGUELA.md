@@ -6,7 +6,7 @@ Le 25 mars 2025 Jade Séguela la registraire du studio est venu nous présenter 
 l'artiste Lozano Hemmer. 
 
 <p align="center">
-  <img src="" height= 400px> <br>
+  <img src="https://www.lozano-hemmer.com/showimage_emb.php?proj=sphere_packing_bach&img=monterrey_2019&idproj=339&type=artwork&id=1" height= 400px> <br>
   <i></i>
 </p>
 
