@@ -12,10 +12,9 @@
 ## Exposition Visitée 
 
 <p align="center">
-  <img src="/MBAM/Photos/intervale/mbam_intervale_cartel.jpg" height= 400px>
+  <img src="/MBAM/Photos/intervale/mbam_intervale_cartel.jpg" height= 400px> <br>
+  <i>Photo prise au courrant de la visite par Efraïm Canizalez</i>
 </p>
-
-*Photo prise au courrant de la visite par Efraïm Canizalez*
 
 ---
 
@@ -75,6 +74,8 @@ Deux écrans transparents, une vidéo en boucle, un système de son spatial à 1
 ![](/MBAM/Photos/intervale/mbam_intervale_projecteur_02.jpg)|![](/MBAM/Photos/intervale/mbam_intervale_speaker.jpg)|![](/MBAM/Photos/intervale/mbam_intervale_speaker_01.jpg)
 
 *Photo prise au courrant de la visite par Efraïm Canizalez*
+
+---
 
 #### Éléments nécessaires à la mise en exposition :
 
