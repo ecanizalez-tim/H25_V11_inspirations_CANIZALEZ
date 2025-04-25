@@ -77,13 +77,20 @@ L’œuvre est installée devant le bâtiment situé au 1700, rue Saint-Denis. T
 ### Matériel
 
 Composantes techniques
+
 •	Deux haut-parleurs diffusant le son de l’installation
+
 •	Trois projecteurs lumineux pour délimiter les zones d’interaction
+
 •	Effets visuels projetés dans les fenêtres
+
 •	Capteurs de mouvement détectant la gestuelle des participant·es
 
+
 Éléments nécessaires à la mise en exposition
+
 •	Cache-fils pour sécuriser le parcours du public
+
 •	Éléments visuels ou lumineux indiquant les zones d’interaction
 
 
