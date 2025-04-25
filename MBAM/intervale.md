@@ -1,0 +1,86 @@
+#  Exposition au Musée des beaux arts de Montréal 
+
+<p align="center">
+  <img src="/tp2/photos/internature/internature_equipe.jpg" height= 400px> <br>
+  <i>Photo de l'équipe</i>
+</p>
+
+
+
+---
+
+## Exposition Visitée 
+
+<p align="center">
+  <img src="/tp2/photos/internature/fiche_internatuel.JPG" height= 400px>
+</p>
+
+*Photo prise par moi au courrant de la visite.*
+
+---
+
+
+
+---
+
+## Infomation de l'exposition
+
+ Résultat  | du prototype |  de l'exposition
+:-------------------------:|:-------------------------:|:-------------------------:
+![](/tp2/photos/internature/internature_projection_dans_tunnel.jpg)|![](/tp2/photos/internature/internature_vu_dans_tunnel.jpg)|![](/tp2/photos/internature/internature_projection_dans_tunnel_droite.jpg)
+
+*Photo prise lors de la visite par Efraïm Canizalez*
+
+---
+
+Le dispositif est situé dans le centre de la pièce. 
+
+---
+
+ technologie  | utilisé pour | l'exposition
+:-------------------------:|:-------------------------:|:-------------------------:
+![](/tp2/photos/internature/internature_capteur.jpg)|![](/tp2/photos/internature/internature_projection.jpg)|![](/tp2/photos/internature/internature_prototype.jpg)
+
+*Photo prise lors de la visite par Efraïm Canizalez*
+
+---
+
+#### Matériel technique
+
+
+
+#### Matériaux de l'installation physique
+
+
+
+#### Responsabilité du partenaire :
+
+
+  
+##### Responsabilité de l'artiste :
+
+
+
+---
+
+### Mon avis 
+
+
+
+---
+
+### Connaissance demander
+
+ Photos des référance
+
+<p align="center">
+  <img src="/tp2/photos/internature/internature_ordi.jpg" height= 400px>
+</p>
+
+*Photo prise lors de la visite par Efraïm Canizalez*
+
+---
+
+### Références
+
+[Internature](https://tprangers.github.io/internature/#/)
