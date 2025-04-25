@@ -31,16 +31,17 @@ Artiste : Anri Sala
 
 Année de réalisation : 2017
 
-Description de l’œuvre :
-
-L’œuvre Intervalle se présente sous la forme d’une installation audiovisuelle. Deux écrans transparents projettent une vidéo de 20 minutes et 45 secondes, diffusée en boucle. Cette projection est accompagnée d’une pièce musicale synchronisée à l’image, créant une atmosphère immersive et contemplative.
-
 Type d’installation : Contemplative
 
 
 ---
 
 ## Infomation de l'exposition
+
+Description de l’œuvre :
+
+L’œuvre Intervalle se présente sous la forme d’une installation audiovisuelle. Deux écrans transparents projettent une vidéo de 20 minutes et 45 secondes, diffusée en boucle. Cette projection est accompagnée d’une pièce musicale synchronisée à l’image, créant une atmosphère immersive et contemplative.
+
 
 Mise en espace :
 
