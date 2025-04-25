@@ -48,7 +48,7 @@ Type d’installation : Interactive
 
 Description de l’œuvre
 
-L’Orchestre Endormi est une installation interactive qui invite le public à endosser le rôle de chef d’orchestre. Par leurs mouvements et leur simple présence, les participant·es activent des sons et des effets lumineux, réveillant ainsi un orchestre métaphorique en sommeil. L’œuvre propose une rencontre poétique entre le corps, la technologie et l’environnement urbain.
+L’Orchestre Endormi est une installation interactive qui invite le public à endosser le rôle de chef d’orchestre. Par leurs mouvements et leur aura, les participant·es activent des effets lumineux, réveillant ainsi un orchestre métaphorique en sommeil.
 
 
  Résultat  | du prototype |  de l'exposition
