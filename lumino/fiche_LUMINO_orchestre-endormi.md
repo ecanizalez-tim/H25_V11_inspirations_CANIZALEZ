@@ -86,7 +86,7 @@ Composantes techniques
 
 •	Capteurs de mouvement détectant la gestuelle des participant·es
 
-
+<br>
 
 Éléments nécessaires à la mise en exposition
 
