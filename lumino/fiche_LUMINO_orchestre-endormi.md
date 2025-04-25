@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="/lumino/photos/lumino_orcheste_endormi_vue_ensemble.jpg" height= 400px> <br>
-  <i>Photo de l'équipe</i>
+  <i>Photo prise au courrant de la visite par Efraïm Canizalez</i>
 </p>
 
 
@@ -12,10 +12,10 @@
 ## Exposition Visitée 
 
 <p align="center">
-  <img src="/lumino/photos/lumino_orcheste_endormi_cartel_02.jpg" height= 400px>
-</p>
+  <img src="/lumino/photos/lumino_orcheste_endormi_cartel_02.jpg" height= 400px> <br>
+  <i>Photo prise au courrant de la visite par Efraïm Canizalez</i>
 
-*Photo prise par moi au courrant de la visite.*
+</p>
 
 ---
 
@@ -73,6 +73,8 @@ L’œuvre est installée devant le bâtiment situé au 1700, rue Saint-Denis. T
 
 *Photo prise lors de la visite par Efraïm Canizalez*
 
+---
+
 Composantes techniques
 
 •	Deux haut-parleurs diffusant le son de l’installation
@@ -113,7 +115,7 @@ J’ai particulièrement apprécié le concept de devenir chef d’orchestre d�
 #####   
 
 <p align="center">
-  <img src="/lumino/photos/lumino_orcheste_endormi_map.jpg" height= 400px>
+  <img src="/lumino/photos/lumino_orcheste_endormi_map.jpg" height= 400px> <br>
   <i>Carte de toutes les expositions de Lumino photo prise par Efraïm Canizalez</i>
 </p>
 
