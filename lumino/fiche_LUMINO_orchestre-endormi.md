@@ -1,7 +1,7 @@
 #  Exposition Lumino L'Ochestre Endormi
 
 <p align="center">
-  <img src="/tp2/photos/internature/internature_equipe.jpg" height= 400px> <br>
+  <img src="/lumino/photos/lumino_orcheste_endormi_vue_ensemble.jpg" height= 400px> <br>
   <i>Photo de l'équipe</i>
 </p>
 
@@ -12,7 +12,7 @@
 ## Exposition Visitée 
 
 <p align="center">
-  <img src="/tp2/photos/internature/fiche_internatuel.JPG" height= 400px>
+  <img src="/lumino/photos/lumino_orcheste_endormi_cartel_02.jpg" height= 400px>
 </p>
 
 *Photo prise par moi au courrant de la visite.*
@@ -51,9 +51,9 @@ Description de l’œuvre
 L’Orchestre Endormi est une installation interactive qui invite le public à endosser le rôle de chef d’orchestre. Par leurs mouvements et leur aura, les participant·es activent des effets lumineux, réveillant ainsi un orchestre métaphorique en sommeil.
 
 
- Résultat  | du prototype |  de l'exposition
+ Photos du  | résultat |  de l'exposition
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/tp2/photos/internature/internature_projection_dans_tunnel.jpg)|![](/tp2/photos/internature/internature_vu_dans_tunnel.jpg)|![](/tp2/photos/internature/internature_projection_dans_tunnel_droite.jpg)
+![](/lumino/photos/lumino_orcheste_endormi_vue_ensemble_fentre_centre_allumer.jpg)|![](/lumino/photos/lumino_orcheste_endormi_vue_ensemble_fentre_centre_allumer_02.jpg)|![](/lumino/photos/lumino_orcheste_endormi_vue_ensemble_tete.jpg)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
 
@@ -63,18 +63,15 @@ Mise en espace
 
 L’œuvre est installée devant le bâtiment situé au 1700, rue Saint-Denis. Trois fenêtres sont utilisées comme surface de projection, chacune accompagnée d’un projecteur lumineux indiquant l’endroit où se placer pour interagir avec l’œuvre.
 
-
----
-
- technologie  | utilisé pour | l'exposition
-:-------------------------:|:-------------------------:|:-------------------------:
-![](/tp2/photos/internature/internature_capteur.jpg)|![](/tp2/photos/internature/internature_projection.jpg)|![](/tp2/photos/internature/internature_prototype.jpg)
-
-*Photo prise lors de la visite par Efraïm Canizalez*
-
 ---
 
 ### Matériel
+
+ technologie  | utilisé pour | l'exposition
+:-------------------------:|:-------------------------:|:-------------------------:
+![](/lumino/photos/lumino_orcheste_endormi_speaker_gauche.jpg)|![](/lumino/photos/lumino_orcheste_endormi_capteur.jpg)|![](/lumino/photos/lumino_orcheste_endormi_speaker_droite.jpg)
+
+*Photo prise lors de la visite par Efraïm Canizalez*
 
 Composantes techniques
 
@@ -111,5 +108,11 @@ J’ai particulièrement apprécié le concept de devenir chef d’orchestre d�
 ---
 
 ### Références
+
+
+##### Carte de toutes les expositions de Lumino  
+
+<img src="/lumino/photos/lumino_orcheste_endormi_map.jpg" height= 400px>
+
 
 [L'Orchestre Emdormi](https://www.luminomtl.com/fr/activites/oeuvres-exterieures/l-orchestre-endormi)
