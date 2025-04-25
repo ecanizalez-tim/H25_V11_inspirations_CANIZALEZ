@@ -5,27 +5,7 @@
   <i>Photo de l'équipe</i>
 </p>
 
-[Bande annonce](https://youtu.be/dI_DeIEkmxw)
 
-[Vidéo promotionnelle](https://www.youtube.com/watch?v=vxIGUEq9AZg&t=5s)
-
-
-L'installation Internature de l'exposition temporaire [Resonance](https://tim-montmorency.com/2025/#/) a été ma préférée parmi les sept installations présentées.
-L'exposition s'est tenue au [Collège Montmorency](https://www.cmontmorency.qc.ca) du 17 au 21 mars 2025, et nous l'avons visitée le 18 mars.
-
-Les finissants et finissantes ayant réalisé ce dispositif sont :
-
-Kenza El Harrif
-
-Isaac Fafard
-
-Delphine Grenier
-
-Khaly Tia Sing
-
-Sitmonternna Yi
-
-Le projet a été conçu et développé du 20 janvier au 14 mars 2025.
 
 ---
 
@@ -39,14 +19,37 @@ Le projet a été conçu et développé du 20 janvier au 14 mars 2025.
 
 ---
 
-«Internature est un tunnel immersif qui intègre le mapping vidéo interactif sur ses parois accompagné d'une musique ambiante et des bruitages afin de vraiment submerger l'utilisateur dans un environnement de nature synthétique. Au cœur de cet environnement, l’utilisateur est invité à interagir avec une boule pour embellir l'environnement, déclenchant finalement un spectacle de lumière dynamique intéractif au toucher et l’amenant à réfléchir sur l’impact de l’être humain sur celle-ci.» -l'équipe de Internature
+Nom de l’exposition ou de l’événement : Lumino
 
-- Le dispositif est de type intéractif et contaplatif.
-- Fonction du dispositif est scénographie.
+Lieu de l’exposition : 1700, rue Saint-Denis, Montréal
+
+Type d’exposition : Temporaire, en extérieur
+
+Date de la visite : 8 mars 2025
+
+Titre de l’œuvre choisie : L’Orchestre Endormi
+
+Artistes et collaborateurs :
+Une œuvre du collectif Ottomata
+
+•	Concept : Hugo Laliberté et Jonathan Jeanson
+
+•	Programmation créative : Hugo Laliberté et Charles-Éric Gandubert
+
+•	Direction technique : Jonathan Jeanson
+
+Année de création : 2019 (à confirmer)
+
+Type d’installation : Interactive
 
 ---
 
 ## Infomation de l'exposition
+
+Description de l’œuvre
+
+L’Orchestre Endormi est une installation interactive qui invite le public à endosser le rôle de chef d’orchestre. Par leurs mouvements et leur simple présence, les participant·es activent des sons et des effets lumineux, réveillant ainsi un orchestre métaphorique en sommeil. L’œuvre propose une rencontre poétique entre le corps, la technologie et l’environnement urbain.
+
 
  Résultat  | du prototype |  de l'exposition
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -56,7 +59,10 @@ Le projet a été conçu et développé du 20 janvier au 14 mars 2025.
 
 ---
 
-Le dispositif est situé dans le centre de la pièce. 
+Mise en espace
+
+L’œuvre est installée devant le bâtiment situé au 1700, rue Saint-Denis. Trois fenêtres sont utilisées comme surface de projection, chacune accompagnée d’un projecteur lumineux indiquant l’endroit où se placer pour interagir avec l’œuvre.
+
 
 ---
 
@@ -68,91 +74,34 @@ Le dispositif est situé dans le centre de la pièce.
 
 ---
 
-#### Matériel technique
+### Matériel
 
-- Roulement de billes de transfert	
-- Écrou	
-- Boulon	
-- Scie à métaux
-- Forêt bois
+Composantes techniques
+•	Deux haut-parleurs diffusant le son de l’installation
+•	Trois projecteurs lumineux pour délimiter les zones d’interaction
+•	Effets visuels projetés dans les fenêtres
+•	Capteurs de mouvement détectant la gestuelle des participant·es
 
-#### Matériaux de l'installation physique
+Éléments nécessaires à la mise en exposition
+•	Cache-fils pour sécuriser le parcours du public
+•	Éléments visuels ou lumineux indiquant les zones d’interaction
 
-- VEVOR Serre Tunnel Portable
-- Anneau	
-- Support de bois
-
-#### Matériel Requis
-- Ordinateur Epson	
-- Projecteur
-- Haut-parleur Genelec
-- Balle de bowling
-- Support pour la boule	
-- Module LIDAR
-- Bandes lumineuses LED
-- Serre portative
-- Bois support de serre
-- RasberryPi
-- Souris Ordinateur
-- Tige fileté Acier
-- Nouille de piscine
-- Fil de pèche
-- Papier sablé
-- Pinceau
-- Colle de bois
-- Plante suspendue
-- Argile
-- Anneau
-- Écrou
-- Boulon
-- Scie à métaux
-- Forêt bois
-
-
-
-#### Responsabilité du partenaire :
-
-
-
-- Emplacement de studio avec électricité et Ethernet disponible,	
-- Disposition d'un budget nécessaire à la conception du projet,
-- Fourniture des matériels possédés par le partenaire.
-
- 
-  
-##### Responsabilité de l'artiste :
-
-
-- Mise en place fluide et fonctionnement du projet,
-- Assuré de prévoir les biens matériels nécessaires,
-- Assuré de la mise en place selon les délais imposés.
-
-  *Information prise dans le Github de l'équipe Internature*
 
 ---
 
 ### Mon avis 
 
-L’aspect interactif de l’installation était particulièrement fascinant, notamment la manière dont la boule permettait de déplacer la projection à l’intérieur de la serre. Cette interaction offrait une véritable immersion, rendant l’expérience captivante et presque magique.  
+#### Expérience vécue
 
-Cependant, j’ai remarqué que l’animation n’était parfois pas très visible selon l’angle de vue. Pour améliorer cela, j’aurais repositionné le dispositif ou ajusté l’intensité de la projection afin d’optimiser la visibilité et l’impact visuel. Peut-être qu’un éclairage adapté ou un contraste plus marqué aurait aussi renforcé l’effet immersif de l’expérience.
+L’interaction, bien que ludique et engageante, souffrait de quelques imprécisions au niveau de la détection des mouvements. Certains capteurs réagissaient moins bien, ce qui rendait l’expérience légèrement inégale. Néanmoins, l’installation m’a beaucoup plu. L’aspect immersif et poétique de l’œuvre m’a permis de me sentir pleinement impliqué·e. Il est à noter que l’œuvre manquait de signalisation claire, ce qui faisait que peu de passants s’y arrêtaient. Une fois que j’ai commencé à interagir avec l’œuvre, plusieurs personnes ont été intriguées et se sont arrêtées pour observer.
 
+#### Ce qui m’a plu
 
+J’ai particulièrement apprécié le concept de devenir chef d’orchestre d’un orchestre numérique. Cette idée, à la fois simple et originale, rend l’interaction naturelle et accessible à tous. L’installation m’a inspiré des réflexions sur la manière dont l’art peut sortir des galeries pour se fondre dans l’espace public, tout en engageant le corps et la participation du public. Toutefois, étant donné les conditions hivernales, il était difficile de rester longtemps en interaction avec l’œuvre. De plus, la simplicité de l’expérience fait qu’on en fait rapidement le tour. Malgré cela, l’œuvre reste marquante et efficace dans sa proposition artistique.
 
----
-
-### Connaissance demander
-
- Photos des référance
-
-<p align="center">
-  <img src="/tp2/photos/internature/internature_ordi.jpg" height= 400px>
-</p>
-
-*Photo prise lors de la visite par Efraïm Canizalez*
 
 ---
 
 ### Références
 
-[Internature](https://tprangers.github.io/internature/#/)
+[]()
