@@ -20,13 +20,21 @@
 ---
 
 Exposition : Anri Sala – Ravel Ravel Interval
+
 Date de la visite : 4 avril 2025
+
 Type d’exposition : Temporaire, intérieure
+
 Œuvre choisie : Intervalle
+
 Artiste : Anri Sala
+
 Année de réalisation : 2017
+
 Description de l’œuvre :
+
 L’œuvre Intervalle se présente sous la forme d’une installation audiovisuelle. Deux écrans transparents projettent une vidéo de 20 minutes et 45 secondes, diffusée en boucle. Cette projection est accompagnée d’une pièce musicale synchronisée à l’image, créant une atmosphère immersive et contemplative.
+
 Type d’installation : Contemplative
 
 
