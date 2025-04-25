@@ -38,7 +38,7 @@ Une œuvre du collectif Ottomata
 
 •	Direction technique : Jonathan Jeanson
 
-Année de création : [Ottomata](https://ottomata.com/en/light-orchestra)
+Année de création : 2025 mais inpiré de Light Orchertra dévlopper en 2019 [Light Orchestra](https://ottomata.com/en/light-orchestra)
 
 Type d’installation : Interactive
 
@@ -121,3 +121,4 @@ J’ai particulièrement apprécié le concept de devenir chef d’orchestre d�
 
 
 [L'Orchestre Emdormi](https://www.luminomtl.com/fr/activites/oeuvres-exterieures/l-orchestre-endormi)
+[Ottomata](https://ottomata.com/en/projects)
