@@ -49,18 +49,6 @@ Le dispositif est situé dans le centre de la pièce.
 
 
 
-#### Matériaux de l'installation physique
-
-
-
-#### Responsabilité du partenaire :
-
-
-  
-##### Responsabilité de l'artiste :
-
-
-
 ---
 
 ### Mon avis 
@@ -83,4 +71,4 @@ Le dispositif est situé dans le centre de la pièce.
 
 ### Références
 
-[Internature](https://tprangers.github.io/internature/#/)
+[]()
