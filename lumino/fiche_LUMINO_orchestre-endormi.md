@@ -38,7 +38,7 @@ Une œuvre du collectif Ottomata
 
 •	Direction technique : Jonathan Jeanson
 
-Année de création : 2019 (à confirmer)
+Année de création : [Ottomata](https://ottomata.com/en/light-orchestra)
 
 Type d’installation : Interactive
 
