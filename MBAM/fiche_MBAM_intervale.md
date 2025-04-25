@@ -1,7 +1,7 @@
 #  Exposition au Musée des beaux arts de Montréal 
 
 <p align="center">
-  <img src="/tp2/photos/internature/internature_equipe.jpg" height= 400px> <br>
+  <img src="/MBAM/Photos/intervale/mbam_intervale_groupe.jpg" height= 400px> <br>
   <i>Photo de l'équipe</i>
 </p>
 
@@ -12,7 +12,7 @@
 ## Exposition Visitée 
 
 <p align="center">
-  <img src="/tp2/photos/internature/fiche_internatuel.JPG" height= 400px>
+  <img src="/MBAM/Photos/intervale/mbam_intervale_cartel.jpg" height= 400px>
 </p>
 
 *Photo prise par moi au courrant de la visite.*
@@ -48,17 +48,17 @@ Mise en espace :
 L’œuvre est installée dans une salle sombre, isolée du bruit, où les deux projections se font face. Deux bancs sont placés au fond de la pièce pour permettre aux visiteurs de s’asseoir. L’éclairage est tamisé, favorisant la concentration sur l’œuvre.
 
 
- Résultat  | du prototype |  de l'exposition
+ Images  | projeter durant | l'exposition
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/tp2/photos/internature/internature_projection_dans_tunnel.jpg)|![](/tp2/photos/internature/internature_vu_dans_tunnel.jpg)|![](/tp2/photos/internature/internature_projection_dans_tunnel_droite.jpg)
+![](/MBAM/Photos/intervale/mbam_intervale_porjection_02.jpg)|![](/MBAM/Photos/intervale/mbam_intervale_projection.jpg)|![](/MBAM/Photos/intervale/mbam_intervale_projection_03.jpg)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
 
 ---
 
- technologie  | utilisé pour | l'exposition
-:-------------------------:|:-------------------------:|:-------------------------:
-![](/tp2/photos/internature/internature_capteur.jpg)|![](/tp2/photos/internature/internature_projection.jpg)|![](/tp2/photos/internature/internature_prototype.jpg)
+  Images projeter |  durant l'exposition
+:-------------------------:|:-------------------------:
+![](/MBAM/Photos/intervale/mbam_intervale_projection_entree.jpg)|![](/MBAM/Photos/intervale/mbam_intervale_projection_main.jpg)
 
 *Photo prise lors de la visite par Efraïm Canizalez*
 
@@ -69,6 +69,12 @@ L’œuvre est installée dans une salle sombre, isolée du bruit, où les deux 
 #### Composantes et techniques :
 
 Deux écrans transparents, une vidéo en boucle, un système de son spatial à 14 haut-parleurs.
+
+ Composantes  | techniques |  de l'exposition
+:-------------------------:|:-------------------------:|:-------------------------:
+![](/MBAM/Photos/intervale/mbam_intervale_projecteur_02.jpg)|![](/MBAM/Photos/intervale/mbam_intervale_speaker.jpg)|![](/MBAM/Photos/intervale/mbam_intervale_speaker_01.jpg)
+
+*Photo prise lors de la visite par Efraïm Canizalez*
 
 #### Éléments nécessaires à la mise en exposition :
 
@@ -91,5 +97,9 @@ J’ai particulièrement aimé la place qu’occupe la musique dans l’œuvre. 
 ---
 
 ### Références
+
+<p align="center">
+  <img src="/MBAM/Photos/intervale/mbam_intervale_remerciment.jpg" height= 400px>
+</p>
 
 [Interval](https://museesmontreal.org/fr/expositions-et-evenements/expositions/anri-sala-ravel-ravel-interval)
