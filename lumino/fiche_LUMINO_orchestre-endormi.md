@@ -110,9 +110,12 @@ J’ai particulièrement apprécié le concept de devenir chef d’orchestre d�
 ### Références
 
 
-##### Carte de toutes les expositions de Lumino  
+#####   
 
-<img src="/lumino/photos/lumino_orcheste_endormi_map.jpg" height= 400px>
+<p align="center">
+  <img src="/lumino/photos/lumino_orcheste_endormi_map.jpg" height= 400px>
+  <i>Carte de toutes les expositions de Lumino photo prise par Efraïm Canizalez</i>
+</p>
 
 
 [L'Orchestre Emdormi](https://www.luminomtl.com/fr/activites/oeuvres-exterieures/l-orchestre-endormi)
