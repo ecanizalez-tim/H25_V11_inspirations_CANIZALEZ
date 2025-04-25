@@ -64,7 +64,7 @@ L’œuvre est installée dans une salle sombre, isolée du bruit, où les deux 
 
 ---
 
-#### Matériel technique
+### Matériel technique
 
 #### Composantes et techniques :
 
