@@ -87,6 +87,7 @@ Composantes techniques
 •	Capteurs de mouvement détectant la gestuelle des participant·es
 
 
+
 Éléments nécessaires à la mise en exposition
 
 •	Cache-fils pour sécuriser le parcours du public
